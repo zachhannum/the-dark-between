@@ -1,0 +1,30 @@
+:root {
+    --bg: #3c3836;
+    --bg-light: #504945;
+    --bg-lighter: #665c54;
+    --bg-lightest: #7c6f64;
+    --fg: #ebdbb2;
+    --red: #cc241d;
+    --green: #98971a;
+    --yellow: #d79921;
+    --blue: #458588;
+    --purple: #b16286;
+    --aqua: #689d6a;
+    --gray: #a89984;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 900px;
+    padding-top: 10vh;  
+    padding-bottom: 10vh;
+    padding: 10px;
+}
+
+.img-shim {
+    display: inline-block;
+    height: 0;
+    min-width: 15em;
+}

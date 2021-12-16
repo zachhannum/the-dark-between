@@ -1,0 +1,34 @@
+h1 {
+    font-family:'Raleway', sans-serif;
+    font-style: italic;
+    font-size: 3em;
+    letter-spacing: .1em;
+}
+
+h2 {
+    font-family:'Raleway', sans-serif;
+    font-style: italic;
+    font-size: 2.2em;
+    letter-spacing: .1em;
+}
+
+h3 {
+    font-family:'Raleway', sans-serif;
+    font-style: italic;
+    font-size: 1.5em;
+    letter-spacing: .1em;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--fg);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 1.05em;
+    letter-spacing: 0.05em;
+}
+
+.first-line-caps::first-line {
+    font-variant: small-caps;
+    font-size: 1.2em;
+}

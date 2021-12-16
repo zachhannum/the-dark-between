@@ -1,0 +1,17 @@
+.header-one-icon {
+    font-size: 4em;
+    padding: .2em;
+    color: var(--yellow);
+}
+
+.header-two-icon {
+    font-size: 3.5em;
+    padding: .1em;
+    color: var(--yellow);
+}
+
+.icon-inline-container {
+    display: flex;
+    align-items: center;
+    /* flex-wrap: wrap; */
+}
