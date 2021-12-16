@@ -6,4 +6,5 @@ button.onclick = function () {
     sidenav.classList.toggle('sidenav-collapse');
     icon.classList.toggle('fa');
     icon.classList.toggle('fa-angle-right');
+    icon.classList.toggle('fa-angle-left');
 }

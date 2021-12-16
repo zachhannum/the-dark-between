@@ -1,5 +1,5 @@
 .sidenav {
-    width: 300px;
+    width: 350px;
     position: fixed;
     background-color: var(--bg-light);
     border-radius: 10px;
@@ -36,10 +36,12 @@
 
 .toc-list li, ul, ul li {
     list-style: outside none none;
+    padding: 3px;
+    padding-left: 15px;
 }
 
 .toc-list a {
-    color: var(--fg);
+    color: var(--fg-darker);
     text-decoration: none;
     transition: .3s ease;
 }
