@@ -1,11 +1,13 @@
 .img {
     width: 80%;
     margin: auto;
+    display: block;
 }
 
 @media (min-width: 750px) {
     .img-right {
         max-width: 400px;
+        padding: 10px;
         width: 100%;
         margin: 20px;
         float: right;
@@ -15,6 +17,7 @@
 @media (min-width: 750px) {
     .img-left {
         max-width: 400px;
+        padding: 10px;
         width: 100%;
         margin: 20px;
         float: left;
@@ -23,6 +26,7 @@
 
 .img-left, .img-right {
     width: 100%;
+    padding: 10px;
     max-width: 400px;
     display: block;
     margin: auto;

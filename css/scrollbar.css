@@ -8,10 +8,11 @@ Not supports in Firefox and IE */
 
 /* background of the scrollbar except button or resizer */
 ::-webkit-scrollbar-track {
-    display: none;
+    opacity: 0;
+    margin: 10px;
 }
 ::-webkit-scrollbar-track:hover {
-    display: none;
+    opacity: 0;
 }
 
 /* scrollbar itself */
