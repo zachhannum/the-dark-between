@@ -48,8 +48,27 @@
     transition: .3s ease;
 }
 
+.toc-list .toc-active {
+    color: var(--fg);
+}
+
 .toc-list a:hover {
     color: var(--fg-dark);
+    cursor: pointer;
     text-decoration: none;
     transition: .3s ease;
+}
+
+.h1 a {
+    color: var(--fg);
+    text-decoration: none;
+    transition: .3s ease;
+}
+
+ul .h2 {
+    margin-left: 1em;
+}
+
+ul .h3 {
+    margin-left: 2em;
 }
