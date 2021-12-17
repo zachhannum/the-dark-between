@@ -1,7 +1,7 @@
 .sidenav {
-    width: 350px;
+    width: 300px;
     position: fixed;
-    background-color: var(--bg-light);
+    background-color: rgba(80, 73, 69, 0.4);
     border-radius: 10px;
     overflow-x: hidden;
     overflow-y: auto;
@@ -10,6 +10,8 @@
     margin-left: 10px;
     transition: .3s ease;
     height: 80vh;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
 }
 
 .sidenav-collapse {
@@ -24,7 +26,7 @@
 }
 
 .sidenav-toc {
-    width: 300px;
+    width: 200px;
     margin: 50px;
     margin-top: 40px;
     padding: 10px;

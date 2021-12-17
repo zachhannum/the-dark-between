@@ -1,14 +1,13 @@
 .img {
     width: 80%;
     margin: auto;
-    padding: 20px;
 }
 
 @media (min-width: 750px) {
     .img-right {
         max-width: 400px;
         width: 100%;
-        padding: 20px;
+        margin: 20px;
         float: right;
     }
 }
@@ -17,7 +16,7 @@
     .img-left {
         max-width: 400px;
         width: 100%;
-        padding: 20px;
+        margin: 20px;
         float: left;
     }
 }
@@ -26,6 +25,5 @@
     width: 100%;
     max-width: 400px;
     display: block;
-    padding: 20px;
     margin: auto;
 }
