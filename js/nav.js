@@ -6,6 +6,7 @@ const sidenav = document.getElementById('sidenav');
 const icon = document.getElementById('sidenav-icon');
 const button = document.getElementById('sidenav-button');
 const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+const maxAutoCollapseWidth = 1575;
 
 function toggleSidenav() {
     sidenav.classList.toggle('sidenav-collapse');
@@ -27,7 +28,7 @@ function clearActiveToc() {
     });
 }
 
-if (vw >= 1400) {
+if (vw >= maxAutoCollapseWidth) {
     toggleSidenav();
 }
 
@@ -48,7 +49,7 @@ headings.forEach(function (heading, index) {
         var destinationElement = document.getElementById(link.dataset.destination);
         enableScrollListener = false;
         destinationElement.scrollIntoView({ behavior: "smooth", block: "start" });
-        if (vw < 1400) {
+        if (vw < maxAutoCollapseWidth) {
             toggleSidenav();
         }
     }
