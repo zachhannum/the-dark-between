@@ -41,13 +41,13 @@
 }
 
 .toc-list a {
-    color: var(--fg-darker);
+    color: var(--fg-darkest);
     text-decoration: none;
     transition: .3s ease;
 }
 
 .toc-list a:hover {
-    color: var(--green);
+    color: var(--fg-dark);
     text-decoration: none;
     transition: .3s ease;
 }
