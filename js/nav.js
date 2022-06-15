@@ -1,7 +1,7 @@
 var enableScrollListener = true;
 
 const toc = document.getElementById("toc-list");
-const headings = [].slice.call(document.body.querySelectorAll('h1, h2, h3, h4, h5, h6'));
+const headings = [].slice.call(document.body.querySelectorAll('h1, h2, h3, h4'));
 const sidenav = document.getElementById('sidenav');
 const icon = document.getElementById('sidenav-icon');
 const button = document.getElementById('sidenav-button');

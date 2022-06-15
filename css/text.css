@@ -1,5 +1,5 @@
 h1 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-style: italic;
     font-size: 3em;
     letter-spacing: .1em;
@@ -8,7 +8,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-style: italic;
     font-size: 2.2em;
     letter-spacing: .1em;
@@ -17,7 +17,7 @@ h2 {
 }
 
 h3 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-style: italic;
     font-size: 1.5em;
     letter-spacing: .1em;
@@ -25,12 +25,44 @@ h3 {
     margin-bottom: 10px;
 }
 
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-size: 1.4em;
+    letter-spacing: .1em;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+h4{
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-size: 1.3em;
+    letter-spacing: .1em;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+h5{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2em;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+h6{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 body {
     background-color: var(--bg);
     color: var(--fg);
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
-    font-size: 1.05em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1em;
     letter-spacing: 0.05em;
 }
 
