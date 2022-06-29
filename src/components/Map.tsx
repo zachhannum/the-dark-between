@@ -1,9 +1,7 @@
-import type { NextPage } from "next";
-import Head from "next/head";
+import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 import Image from "next/image";
 import styled from "styled-components";
-import AljieudumMap from "../public/images/aljieudum.jpg";
-import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
+import AljieudumMap from "../../public/images/aljieudum.jpg";
 
 const ImageContainer = styled.div`
   width: 30vw;
@@ -19,7 +17,7 @@ const Loading = styled.div`
   z-index: -1;
 `;
 
-const Home: NextPage = () => {
+const Map = () => {
   return (
     <TransformWrapper>
       <TransformComponent>
@@ -37,4 +35,4 @@ const Home: NextPage = () => {
   );
 };
 
-export default Home;
+export default Map;
