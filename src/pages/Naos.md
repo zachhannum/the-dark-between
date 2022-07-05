@@ -1,2 +1,2 @@
 # Naos
-Naos is the native name for the entire planet. Naos is an earth-like world, hospitable for most forms of life. There are four major continents on the planet of Naos, [[Agios]], [[Edesh]], [[Selar]], and [[Idus]].
+Naos is the native name for the entire planet. Naos is an earth-like world, hospitable for most forms of life. There are four major continents on the planet of Naos: [[Agios]], [[Edesh]], [[Selar]], and [[Idus]].

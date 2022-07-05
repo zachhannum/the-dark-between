@@ -1,6 +1,6 @@
 # The Dark Between
 
-_The Dark Between_ is a sort of "Steampunk", sort of "Gaslamp" fantasy setting that takes place on the planet of [[Naos]]. The heart of _The Dark Between_ lies in the exploration of themes of gray morality, authority versus autonomy, chaos and order, and the concept that the more we know about the Universe, the more we don't.  
+_The Dark Between_ is a sort of “Steampunk”, sort of “Gaslamp” fantasy setting that takes place on the planet of [[Naos]]. The heart of _The Dark Between_ lies in the exploration of themes of gray morality, authority versus autonomy, chaos and order, and the concept that the more we know about the Universe, the more we don't.  
   
 This setting has everything from unknowable elemental beings, powerful spellcasters, to genius inventors. **Naos** is a vast world, with many varying cultures and points of view—the technological wonders of [[Aljieudum]], the stretching verdant hills of [[Savaar]], and the militaristic might of [[Tharsis]].
 

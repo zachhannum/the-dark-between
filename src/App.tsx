@@ -1,15 +1,8 @@
 import React, { useEffect, useState } from "react";
-import type { GatsbyBrowser } from "gatsby";
 import { Helmet } from "react-helmet";
-import { DarkModeSwitch } from "react-toggle-dark-mode";
 import styled, { ThemeProvider } from "styled-components";
 import { lightTheme, darkTheme, GlobalStyle } from "./theme";
-
-const DarkModeSwitchContainer = styled.div`
-  position: absolute;
-  top: 20px;
-  right: 20px;
-`;
+import { DarkModeSwitch } from "./components";
 
 type AppProps = {
   children: React.ReactNode;
@@ -23,10 +16,15 @@ export const App = ({ children }: AppProps) => {
 
   useEffect(() => {
     console.log("mount");
-    return () => {
-      console.log("unmount");
-    };
+    const isDarkStorage = localStorage.getItem("isDark");
+    if (isDarkStorage && JSON.parse(isDarkStorage)) {
+      setIsDarkMode(true);
+    }
   }, []);
+
+  useEffect(() => {
+    localStorage.setItem("isDark", JSON.stringify(isDarkMode));
+  }, [isDarkMode]);
 
   return (
     <ThemeProvider theme={isDarkMode ? darkTheme : lightTheme}>
@@ -53,14 +51,8 @@ export const App = ({ children }: AppProps) => {
         />
       </Helmet>
       <GlobalStyle />
-      <DarkModeSwitchContainer>
-        <DarkModeSwitch
-          checked={isDarkMode}
-          onChange={toggleDarkMode}
-          size={20}
-        />
-      </DarkModeSwitchContainer>
       {children}
+      <DarkModeSwitch isDark={isDarkMode} onChange={toggleDarkMode} />
     </ThemeProvider>
   );
 };

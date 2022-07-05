@@ -10,6 +10,8 @@ const GlobalStyle = createGlobalStyle`
     background: ${(p) => p.theme.bg[0]};
     font-family: 'IM Fell Double Pica', serif;
     font-size: 1.3em;
+    letter-spacing: .02rem;
+    line-height: 1.2em;
   }
 
   * {
@@ -18,14 +20,37 @@ const GlobalStyle = createGlobalStyle`
 
   a {
     all: unset;
+    font-weight: 700;
+    position: relative;
     cursor: pointer;
-    color: ${(p) => p.theme.blue["fg"]}
+    color: ${(p) => p.theme.blue["fg"]};
+    display: inline-block;
+    transition: color 100ms ease-in-out;
+    margin: 0 1px;
+    padding: 0 2px;
+    &:after {
+      z-index: -1;
+      border-radius: 4px;
+      position: absolute;
+      background-color: ${(p) => p.theme.blue["bg"]};
+      content: '';
+      top: 0;
+      left: 0;
+      width: 0%;
+      height: 100%;
+      transition: width 100ms ease-in-out;
+    }
+    &:hover:after {
+      width: 100%;
+    }
+    &:hover {
+      color: ${(p) => p.theme.fg[0]};
+    }
   }
 
   h1 {
     font-family: 'IM Fell Double Pica SC', serif;
     letter-spacing: .1rem;
-
   }
 `;
 
