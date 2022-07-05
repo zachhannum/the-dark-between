@@ -10,6 +10,7 @@ const config: GatsbyConfig = {
   // If you use VSCode you can also use the GraphQL plugin
   // Learn more at: https://gatsby.dev/graphql-typegen
   graphqlTypegen: true,
+  pathPrefix: "/the-dark-between",
   plugins: [
     "gatsby-plugin-styled-components",
     "gatsby-plugin-image",
@@ -24,10 +25,14 @@ const config: GatsbyConfig = {
         gatsbyRemarkPlugins: [
           {
             resolve: `gatsby-remark-obsidian`,
+            options: {
+              titleToURL: (title: string) => `./${title}`,
+            },
           },
         ],
       },
     },
+    "gatsby-plugin-catch-links",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {

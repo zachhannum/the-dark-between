@@ -10,6 +10,18 @@
           "type": "markdown",
           "state": {
             "file": "index.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "abbe9d595396eddc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Luminary.md",
             "mode": "source",
             "source": false
           }
@@ -90,6 +102,9 @@
   "active": "05b8a7969220a831",
   "lastOpenFiles": [
     "index.md",
+    "The Luminary.md",
+    "Naos.md",
+    "another.md",
     "test.md"
   ]
 }
