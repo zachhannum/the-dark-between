@@ -51,6 +51,7 @@ const GlobalStyle = createGlobalStyle`
   h1 {
     font-family: 'IM Fell Double Pica SC', serif;
     letter-spacing: .1rem;
+    font-weight: 500;
   }
 `;
 
