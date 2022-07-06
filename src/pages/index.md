@@ -60,9 +60,9 @@ Manifesting magical effects with Luminous Magic involves interfacing directly wi
 
 While humans make up the majority of the population on [[Naos]], there are a number of once-humans and human hybrids living alongside their ascendants.
 
-- [[Deep Dweller | Deep Dwellers]]
-- [[Shifter | Shifters]]
-- [[Elemental Scion| Elemental Scions]]
+- [[Deep Dweller| Deep Dwellers]]
+- [[Shifter|Shifters]]
+- [[Elemental Scion|Elemental Scions]]
 
 ## Places
 

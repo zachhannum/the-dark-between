@@ -29,6 +29,8 @@
     "gatsby-plugin-react-helmet": "^5.17.0",
     "gatsby-plugin-sharp": "^4.17.0",
     "gatsby-plugin-styled-components": "^5.17.0",
+    "gatsby-remark-audio": "^1.0.2",
+    "gatsby-remark-copy-linked-files": "^5.18.0",
     "gatsby-remark-enhanced-wikilink": "^1.0.1",
     "gatsby-remark-obsidian": "^0.5.0",
     "gatsby-source-filesystem": "^4.17.0",

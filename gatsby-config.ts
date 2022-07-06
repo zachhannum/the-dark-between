@@ -29,6 +29,7 @@ const config: GatsbyConfig = {
               titleToURL: (title: string) => `./${title}`,
             },
           },
+          "gatsby-remark-copy-linked-files",
         ],
       },
     },

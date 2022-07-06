@@ -10,6 +10,16 @@ In the beginnings of the world, when humans huddled around fires and struggled t
 
 In a sense, early humans saw these divine concepts as *Universal Movers*, beings that encompassed various aspects of their lives. In their belief and worship, humanity as a whole catalyzed a collective [[Conviction]] so strong that it these beings were *willed* into existence. Overtime, primordial beings were formed from the faith that existed within humanity. The Convictions that created these beings was so strong that it became a [[Fixed Truth]] in reality, allowing the spirits to continue to exist even as humanity evolved.
 
+import fire from '../images/svetlin-velinov-elemental.png';
+
+<Image 
+	src={fire} 
+	alt="steampunk table" 
+	width="80%"
+	source="Art by Svetlin Velinov, Elemental"
+	sourceLink="https://velinov.artstation.com/projects/oO5AKz"
+	/>
+
 ## Sentience
 It is unknown to the denizens of [[Naos]] whether the Primal Spirits are sentient, or simply forces of nature. In truth, the answer is more complex than that. The Primal Spirits themselves are far more complex constructs, both incomprehensible forces and, for lack of a better term, minds. They work as parts of a whole, and there are many instances of physical manifestations of the Primal Spirits coming into existence in the physical world, either pulled by a mortal that lives in it, or simply bubbled into existence by random chance. These manifestations can take many forms, both benign and dangerous. Many have been worshiped and feared as minor gods or monsters in their own right.
 
@@ -35,6 +45,17 @@ It is important to note that while the Spirits embody aspects of humanity, they 
 
 ### Corruption of the Primal Soul
 Of the spirits, Soul was always the most *concious* and aware. While the other Spirits were more animalistic in nature, Soul often manifests with more sentience. Over time, however, as humanity and civilization became more complex, and the understanding of what it means to be good or evil did as well, the Primal Soul becamed twisted, warping into a representation of the darkest corners of the human soul. While the Primal Soul is merely a reflection, in a way, and cannot be truly evil, this shift led many in the world of [[Naos]] to fear the Primal Soul, and treat it as such. For [[The Argent]], The Primal Soul is seen as the personifcation of Evil, the wickedness of the heart should [[The Luminary]] not be followed.
+
+import water from '../images/fran-fdez-water-sentinel-wip-7-final.png';
+
+<Image 
+	src={water} 
+	alt="steampunk table" 
+	width="300px"
+  align="right"
+	source="Art by Fran Fdez, Water Sentinel"
+	sourceLink="https://franfdez.art/projects/nYQZ3r"
+	/>
 
 ## In the Modern Age
 In the modern age of Naos, most civilizations treat the Spirits as they are, powerful and primal beings that are vast and potentially dangerous, but not gods. Some civilations, however, still worship one or more of the spirits as dieites. Some [[Shifter|Shifters]] worship the [[Primal Spirit of Bone]] as a sort of god-like figure. Pockets of Msanti culture worship [[Primal Spirit of Water|Primal Water]]. There are various human cultures that worship the different elemental spirits in more ways than one.

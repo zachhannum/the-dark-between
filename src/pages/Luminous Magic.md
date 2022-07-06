@@ -3,7 +3,7 @@ aliases: Luminancy
 ---
 # Luminous Magic
 
-Luminous Magic is Magic that is created or performed through [[The Luminary]]. This feat is accomplished through the [[Thread]]. Utilizing the direct connection with the Luminary allows one to bend reality to their will through a [[Conviction]]. Creating anything meaningful with Luminous Magic is no small feat, and although all living creatures on [[Naos]] have a Thread, few can utilize it to distort the fabric of reality to their will.
+Luminous Magic is Magic that is created or performed through [[The Luminary]]. This feat is accomplished through the [[Thread]]. Utilizing the direct connection with the Luminary allows one to bend reality to their will through a [[Conviction]]. Creating anything meaningful with Luminous Magic is no small feat, and although all living creatures on [[Naos]] have a Thread, few can utilize it to distort the fabric of reality to their will. Wielders of Luminous Magic are called [[Acronist|Acronists]].
 
 ## Permanent Magic
 It is possible for [[Conviction|Convictions]] to become [[Fixed Truth|Fixed Truths]] if the manifestation is strong enough. [[Luminous Magic#Runes|Runes]] can help retain the efficacy of Fixed Truths, though almost all Fixed Truths degrade over time unless regularly maintained or are upheld by a [[Collective Conviction]]. 
@@ -41,12 +41,11 @@ While a particularly talented and rare [[Acronist]] may be able to manifest [[Co
 
 **Demus** - Destruction, decay, disintegrate, or diminish
 
-## The Exchange
-In order for an Acronist to leverage a [[Primal Spirits|Primal Spirit]] in their [[Conviction|Convictions]], they must complete [[The Exchange]]. The Exchange takes many forms, depending on both the particular Spirit involved and the specific cultural practices of the Acronist. In some cultures, such as the in [[Kingdom of Lashana]], their worship of the [[Primal Spirit of Fire|Primal Fire]] gave their most devout worshippers control over the Aspects of Fire. 
+## Loss of Magic
 
-Typically, exchanges made with any of the Spirits are more simple, either involving a Summoning and capture of part of the Primal Spirit, or consistent worship of a particular Spirit. In rare cases, a Primal Spirit may reach into the physical realm and *choose* a Scion, creating a pact with a mortal at birth, as is the case with [[Elemental Scion|Elemental Scions]] and [[Shifter|Shifters]].
+Individuals who have had their [[Thread]] severed are called [[The Faded|Fades]], and can no longer manifest Luminous Magic or be directly affected by it.
 
-The exception, however, is the Primal Soul. The Primal Soul, considered more sentient and *aware* than the other Spirits, often requires a **Bargain** to be struck with the Acronist. Since the [[Primal Spirits#Corruption of the Primal Soul|Corruption of the Primal Soul]], exchanges with the Primal Soul are mostly frowned upon, and in some places, illegal.
+
 
 
 
