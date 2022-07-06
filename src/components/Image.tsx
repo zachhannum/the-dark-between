@@ -72,7 +72,7 @@ const Image = ({
 }: ImageProps) => {
   return (
     <StyledImageContainer width={width} align={align}>
-      <StyledImage src={src} alt={alt} />
+      <StyledImage src={src} alt={alt} loading="lazy" />
       <StyledCaption to={sourceLink} target="_blank">
         {source}
       </StyledCaption>

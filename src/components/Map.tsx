@@ -1,5 +1,8 @@
 import React, { useCallback, useRef } from "react";
-import QuickPinchZoom, { make3dTransformValue } from "react-quick-pinch-zoom";
+import QuickPinchZoom, {
+  make3dTransformValue,
+  UpdateAction,
+} from "react-quick-pinch-zoom";
 import styled, { css } from "styled-components";
 
 type Align = "left" | "right" | "center";
@@ -14,7 +17,7 @@ const ImageContainer = styled.span<ImageContainerProps>`
   width: 100%;
   display: flex;
   justify-content: center;
-
+  cursor: pointer;
   ${(p) =>
     p.align === "right" &&
     css`
@@ -61,8 +64,8 @@ type MapProps = {
 
 const Map = ({ width = "400px", src, align = "center" }: MapProps) => {
   const imgRef = useRef<HTMLImageElement>(null);
-  const onUpdate = useCallback(({ x, y, scale }) => {
-    
+  const zoomControlsRef = useRef(null);
+  const onUpdate = useCallback(({ x, y, scale }: UpdateAction) => {
     const { current: img } = imgRef;
     if (img) {
       const value = make3dTransformValue({ x, y, scale });
@@ -72,7 +75,13 @@ const Map = ({ width = "400px", src, align = "center" }: MapProps) => {
 
   return (
     <ImageContainer width={width} align={align}>
-      <QuickPinchZoom onUpdate={onUpdate} maxZoom={8}>
+      <QuickPinchZoom
+        onUpdate={onUpdate}
+        maxZoom={8}
+        wheelScaleFactor={200}
+        inertia={false}
+        ref={zoomControlsRef}
+      >
         <StyledImage
           src={src}
           alt="map of aljieudum"
