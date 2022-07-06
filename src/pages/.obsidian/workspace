@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cornerstone.md",
+            "file": "The Exchange.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 217
   },
   "right": {
     "id": "7a2b453afa427c2b",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cornerstone.md",
+                "file": "The Exchange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "7005c7774c6183ca",
   "lastOpenFiles": [
-    "Cornerstone.md",
+    "The Exchange.md",
     "index.md",
+    "Cornerstone.md",
     "Convergence.md",
     "Conviction.md",
     "Backlash.md",
     "Fixed Truth.md",
     "Luminous Magic.md",
     "Primal Spirits.md",
-    "Primal Spirit of Soul.md",
-    "Naos.md"
+    "Primal Spirit of Soul.md"
   ]
 }

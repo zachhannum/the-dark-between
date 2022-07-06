@@ -2,6 +2,8 @@
 import React from "react";
 import styled from "styled-components";
 import { MDXProvider } from "@mdx-js/react";
+import { Header } from "../components";
+import { Image } from "../components";
 
 type DefaultLayoutProps = {
   children: React.ReactNode;
@@ -9,21 +11,26 @@ type DefaultLayoutProps = {
 
 const StyledContent = styled.div`
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
   color: ${(p) => p.theme.fg[1]};
 `;
 
 const ArticleContent = styled.div`
   max-width: 800px;
-  width: 100%;
-  margin: 25px 10%;
+  width: 95%;
+  margin: 25px auto;
 `;
+
+const shortcodes = { Image };
 
 const DefaultLayout = ({ children }: DefaultLayoutProps) => {
   return (
     <StyledContent>
+      <Header />
       <ArticleContent>
-        <MDXProvider components={{}}>{children}</MDXProvider>
+        <MDXProvider components={shortcodes}>{children}</MDXProvider>
       </ArticleContent>
     </StyledContent>
   );
