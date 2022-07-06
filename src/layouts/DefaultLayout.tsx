@@ -3,7 +3,7 @@ import React from "react";
 import styled from "styled-components";
 import { MDXProvider } from "@mdx-js/react";
 import { Header } from "../components";
-import { Image } from "../components";
+import { Image, Map } from "../components";
 
 type DefaultLayoutProps = {
   children: React.ReactNode;
@@ -23,7 +23,7 @@ const ArticleContent = styled.div`
   margin: 25px auto;
 `;
 
-const shortcodes = { Image };
+const shortcodes = { Image, Map };
 
 const DefaultLayout = ({ children }: DefaultLayoutProps) => {
   return (

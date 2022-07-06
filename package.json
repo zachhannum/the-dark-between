@@ -35,6 +35,7 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-helmet": "^6.1.0",
+    "react-quick-pinch-zoom": "^4.4.1",
     "react-toggle-dark-mode": "^1.1.0",
     "styled-components": "^5.3.5"
   },

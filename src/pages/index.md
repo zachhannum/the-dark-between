@@ -1,5 +1,3 @@
-# The Dark Between
-
 import steampunk from '../images/steampunk-table.png';
 
 <Image 
@@ -9,6 +7,8 @@ import steampunk from '../images/steampunk-table.png';
 	source="Art by Davison Carvalho, Steampunk Astrolabe Table"
 	sourceLink="https://www.artstation.com/artwork/Llgdv"
 	/>
+
+# The Dark Between
 
 *The Dark Between* is a sort of “Steampunk”, sort of “Gaslamp” fantasy setting that takes place on the planet of [[Naos]]. The heart of *The Dark Between* lies in the exploration of themes of gray morality, authority versus autonomy, chaos and order, and the concept that the more we know about the Universe, the more we don't.
 

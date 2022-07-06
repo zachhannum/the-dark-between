@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Exchange.md",
+            "file": "Aljieudum.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Exchange.md",
+                "file": "Aljieudum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7005c7774c6183ca",
   "lastOpenFiles": [
-    "The Exchange.md",
+    "Aljieudum.md",
     "index.md",
+    "The Exchange.md",
     "Cornerstone.md",
     "Convergence.md",
     "Conviction.md",
     "Backlash.md",
     "Fixed Truth.md",
     "Luminous Magic.md",
-    "Primal Spirits.md",
-    "Primal Spirit of Soul.md"
+    "Primal Spirits.md"
   ]
 }
