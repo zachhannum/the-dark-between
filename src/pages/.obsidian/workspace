@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enzo Quint.md",
+            "file": "The Sixth Tape.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enzo Quint.md",
+                "file": "The Sixth Tape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,11 @@
   },
   "active": "52a52fff366130cd",
   "lastOpenFiles": [
+    "The Sixth Tape.md",
     "Enzo Quint.md",
     "Volkharn.md",
     "Thread.md",
     "The Vigil.md",
-    "The Sixth Tape.md",
     "The Saetorim Institute.md",
     "The Prisma Corporation.md",
     "The Luminary.md",
