@@ -1,0 +1,32 @@
+img {
+    display: block;
+    max-width: 80%;
+    mask-size: contain;
+    
+}
+
+img.center {
+    margin: auto;
+}
+
+img.horizontal {
+    mask-image: url(./src/pages/images/horizontal-image-mask.png);
+}
+
+img.vertical {
+    mask-image: url(./src/pages/images/vertical-image-mask.png);
+}
+
+@media (min-width: 750px) {
+  img.right {
+    margin-top: -10px;
+    float: right;
+  }
+}
+
+@media (min-width: 750px) {
+  img.left {
+    margin-top: -10px;
+    float: left;
+  }
+}

@@ -1,5 +1,7 @@
 {
   "legacyEditor": false,
   "livePreview": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "images",
+  "useMarkdownLinks": false
 }

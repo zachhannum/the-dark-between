@@ -2,7 +2,7 @@
 
 Aljiuedum is a sovereign island country off the North-Western coast of mainland [[Selar]].
 
-import aljieudumMap from '../images/aljieudum.jpg';
+import aljieudumMap from './images/aljieudum.jpg';
 
 <Map
 	 src={aljieudumMap}

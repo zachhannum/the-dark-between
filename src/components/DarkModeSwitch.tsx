@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import styled, { useTheme } from "styled-components";
 import { DarkModeSwitch as DarkModeToggle } from "react-toggle-dark-mode";
 
@@ -16,7 +16,11 @@ type DarkModeSwitchProps = {
 const DarkModeSwitch = ({ isDark, onChange }: DarkModeSwitchProps) => {
   const theme = useTheme();
   return (
-    <DarkModeSwitchContainer>
+    <DarkModeSwitchContainer
+      onClick={() => {
+        console.log(window.__LUNR__["en"].index.search("primal"));
+      }}
+    >
       <DarkModeToggle
         checked={isDark}
         onChange={onChange}

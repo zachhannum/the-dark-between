@@ -2,18 +2,6 @@
 
 Below is a list of the Primal Aspects and their descriptions.
 
-
-import aspects from '../images/aspects.png';
-
-  <Image 
-	src={aspects} 
-	alt="aspects" 
-	width="80%"
-	align="center"
-	source=""
-	sourceLink=""
-	/>
-
 ## Energy
 
 The Aspect of **Energy** gives one the ability to create, shape, and manipulate various forms of energy, and are able to transform or convert it into a number of different manifestations. Some common forms of energy that Acronists use are kinetic, radiant, and thermal. This aspect has ties to the power industry and the military, due to it's applications in combat and energy production. _Furybearers_ are some of the most sought after Acronists.

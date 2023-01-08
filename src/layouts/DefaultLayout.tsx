@@ -1,11 +1,12 @@
 // src/components/layout.js
-import React from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import { MDXProvider } from "@mdx-js/react";
 import { Header } from "../components";
 import { Image, Map, Center, Audio } from "../components";
 
 type DefaultLayoutProps = {
+  data: any;
   children: React.ReactNode;
 };
 
@@ -26,6 +27,7 @@ const ArticleContent = styled.div`
 const shortcodes = { Image, Map, Center, Audio };
 
 const DefaultLayout = ({ children }: DefaultLayoutProps) => {
+
   return (
     <StyledContent>
       <Header />
