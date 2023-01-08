@@ -1,6 +1,7 @@
+import React, { useEffect } from "react";
+import { useState } from "react";
 import { graphql, useStaticQuery } from "gatsby";
 import { useFlexSearch } from "react-use-flexsearch";
-import React from "react";
 import styled from "styled-components";
 import Logo from "./Logo";
 
@@ -10,7 +11,7 @@ const StyledHeader = styled.div`
 `;
 
 const Header = () => {
-  const data = useStaticQuery(graphql`
+  const { localSearchPages } = useStaticQuery(graphql`
     query {
       localSearchPages {
         index
@@ -18,18 +19,26 @@ const Header = () => {
       }
     }
   `);
+  const [query, setQuery] = useState<string | null>(null);
+  const results = useFlexSearch(
+    query,
+    localSearchPages.index,
+    localSearchPages.store
+  );
+
+  useEffect(() => {
+    console.log(results);
+  }, [results]);
+
   const onSearch = () => {
     // console.log(data);
-    if (data) {
-      const { index, store } = data.localSearchPages;
-      const results = useFlexSearch("primal spirits", index, store);
-      console.log(results);
+    if (localSearchPages) {
+      setQuery("priml");
     }
   };
   return (
     <StyledHeader>
       <button onClick={onSearch}>Search</button>
-
       <Logo />
     </StyledHeader>
   );
