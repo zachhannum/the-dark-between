@@ -33,7 +33,7 @@ const Header = () => {
   const onSearch = () => {
     // console.log(data);
     if (localSearchPages) {
-      setQuery("priml");
+      setQuery("arlo");
     }
   };
   return (

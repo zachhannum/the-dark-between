@@ -49,7 +49,6 @@ const config: GatsbyConfig = {
                 let width = "";
                 if (result.alt) {
                   width = `width="${result.alt.split("|")[1]}px"`;
-                  console.log(width);
                 }
                 return `<img src="${result.src}" srcSet="${result.srcSet}" ${classes} ${width}/>`;
               },
@@ -99,14 +98,13 @@ const config: GatsbyConfig = {
         // required.
         query: `
           {
-            allMdx {
+            allMdx(filter: {frontmatter: {hide: {ne: true}}}) {
               nodes {
                 id
-                frontmatter {
-                  title
-                }
+                excerpt(pruneLength: 280)
                 fileAbsolutePath
                 rawBody
+                slug
               }
             }
           }
@@ -124,7 +122,7 @@ const config: GatsbyConfig = {
         // List of keys to store and make available in your UI. The values of
         // the keys are taken from the normalizer function below.
         // Default: all fields
-        store: ['id', 'path', 'title'],
+        store: ['id', 'path', 'title', 'excerpt'],
 
         // Function used to map the result from the GraphQL query. This should
         // return an array of items to index in the form of flat objects
@@ -134,7 +132,8 @@ const config: GatsbyConfig = {
           data.allMdx.nodes.map((node) => ({
             id: node.id,
             path: node.fileAbsolutePath,
-            title: node.frontmatter.title,
+            excerpt: node.excerpt,
+            title: node.slug,
             body: node.rawBody,
           })),
       },

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primal Spirits.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primal Spirits.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "a71f849600d9112b",
   "lastOpenFiles": [
+    "images/Morne_he_Dark_Between_the_void_between_realms_vantablack_planet_a58cae09-c2ef-4fa9-acb6-f5d7f8394b30.png",
+    "index.md",
     "Primal Spirits.md",
     "The Exchange.md",
     "Aspects.md",
-    "index.md",
     "Edification.md",
     "Edifice.md",
     "Prismagates.md",
     "Jules Kaplan.md",
-    "Conviction.md",
-    "images/aljieudum.jpg"
+    "Conviction.md"
   ]
 }

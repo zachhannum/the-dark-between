@@ -17,9 +17,6 @@ const DarkModeSwitch = ({ isDark, onChange }: DarkModeSwitchProps) => {
   const theme = useTheme();
   return (
     <DarkModeSwitchContainer
-      onClick={() => {
-        console.log(window.__LUNR__["en"].index.search("primal"));
-      }}
     >
       <DarkModeToggle
         checked={isDark}
