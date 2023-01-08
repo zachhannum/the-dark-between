@@ -15,13 +15,16 @@ In a sense, early humans saw these divine concepts as *Universal Movers*, beings
 
 ## Sentience
 
-![primal bone|400](./images/Morne_The_primal_spirit_of_bone_shape_epic_fantasy_art_77181082-4593-43c8-8536-27138002d0bc.png "left center square")
+![primal bone|400](./images/Morne_The_primal_spirit_of_bone_shape_epic_fantasy_art_77181082-4593-43c8-8536-27138002d0bc.png "right center square")
 
 It is unknown to the denizens of [[Naos]] whether the Primal Spirits are sentient, or simply forces of nature. In truth, the answer is more complex than that. The Primal Spirits themselves are far more complex constructs, both incomprehensible forces and, for lack of a better term, minds. They work as parts of a whole, and there are many instances of physical manifestations of the Primal Spirits coming into existence in the physical world, either pulled by a mortal that lives in it, or simply bubbled into existence by random chance. These manifestations can take many forms, both benign and dangerous. Many have been worshiped and feared as minor gods or monsters in their own right.
 
 In some ways, the Primal Spirits have a “will” of their own, trying to shape the world in their image however they see fit. But they are also vastly incomprehensible, and often their influence on the world is met with fear and awe.
 
+![primal earth|300](./images/Morne_humanoid_made_entirely_out_of_desert_rocks_epic_fantasy_a_57784da2-6351-4f14-ab3a-a92b4b3d883c.png "left center square")
+
 ### Intrinsic Values
+
 Since the Primal Spirits were created by and for Humans, each of the spirits is also intrisically tied to certain *values*.  These values influence how the Primal Spirits manifest in the world and their influence on it.
 
 The Primal Earth is tied to the values of *Balance*, *Strength*, and *Neutrality*.

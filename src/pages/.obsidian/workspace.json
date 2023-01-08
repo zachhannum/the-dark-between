@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25619058657f655a",
+        "id": "ba1049e9aa8a6ede",
         "type": "tabs",
         "children": [
           {
-            "id": "a71f849600d9112b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primal Spirits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "043ebab44a3546b4",
+            "id": "90e8e732f2091068",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -56,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Bathyslab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primal Spirits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +99,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a71f849600d9112b",
+  "active": "90e8e732f2091068",
   "lastOpenFiles": [
-    "Prismagates.md",
-    "index.md",
-    "The Ascension.md",
-    "Vytas Quint.md",
-    "Volkharn.md",
-    "Viceroy.md",
-    "Vera Lauten.md",
-    "Vastcaller.md",
-    "Varengard Family.md",
-    "Valent Childs.md"
+    "Thread.md",
+    "Bathysward.md",
+    "images/Morne_interior_of_an_undersea_marketplace_inside_a_bathysphere__888bf3f7-1b2c-4491-a36c-318200a97c97.png",
+    "Enzo Quint.md",
+    "Bathyslab.md",
+    "Primal Spirits.md",
+    "Acronist.md",
+    "Deep Dwellers.md",
+    "images/Morne_A_humanoid_deep_sea_creature_wearing_a_deep_sea_diving_su_73849117-8565-44f9-96ce-d2f3e7ec196e.png",
+    "images/Morne_A_humanoid_deep_sea_creature_wearing_a_deep_sea_diving_su_c28ba0d5-ed25-471a-b0e1-4c34ddf8b4bb.png"
   ]
 }

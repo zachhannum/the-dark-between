@@ -17,6 +17,10 @@ img.vertical {
     mask-image: url(./src/pages/images/vertical-image-mask.png);
 }
 
+img.square {
+    mask-image: url(./src/pages/images/square-image-mask.png);
+}
+
 @media (min-width: 750px) {
   img.right {
     margin-top: -10px;
