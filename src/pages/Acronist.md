@@ -1,7 +1,8 @@
 ---
+title: Acronist
 aliases: Acronists
 ---
-# Acronist
+
 Acronists are trained wielders of [[Luminous Magic]]. As it takes a great deal of talent and dedication to develop strong [[Conviction|Convictions]], many Acronists studied for many years to become proficient at Magic.
 
 ## Pure Acronist
@@ -15,7 +16,7 @@ To bind a [[Primal Spirits|Primal Spirit]], an Acronist must perform [[The Excha
 
 ### The Aspects
 
-Each [[Primal Spirits|Primal Spirit]] is tied to three [[Aspects]], and each Spirit shares two of their Aspects with an adjacent spirit.
+Each [[Primal Spirits|Primal Spirit]] is tied to three [[Primal Aspects]], and each Spirit shares two of their Aspects with an adjacent spirit.
 
 ### Types of Primal Acronists
 

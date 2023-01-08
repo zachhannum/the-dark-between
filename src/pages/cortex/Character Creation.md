@@ -1,4 +1,8 @@
-# Character Creation
+---
+title: Character Creation
+hide: true
+---
+
 https://tamas-rabel.github.io/cortex/sheet.html
 Trait Sets:
 * Distinctions

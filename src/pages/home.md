@@ -1,3 +1,0 @@
-## Worlds
-* [[Naos]]
-* [[Asdel]]

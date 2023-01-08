@@ -1,8 +1,7 @@
 ---
+title: Deep Dwellers
 aliases: Msanti, Altuer
 ---
-# The Deep Dwellers
-#naos #race
 
 *The figure in the tarnished metal suit loomed over Gael. It was impossible to discern any features through the scratched and dirty glass of the viewport in the helmet, but he could only imagine a contorted mass of tentacles, eyes, and mottled grey flesh beneath the placid mask. Without warning it turned and launched it's impossible mass over the side of the ship and into the depths below.*
 

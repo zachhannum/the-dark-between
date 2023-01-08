@@ -1,7 +1,7 @@
 ---
+title: Fade
 aliases: Faded, Untethered, Fade
 ---
-# The Faded
 
 *They are quite depressing, aren't they? I had a Great Uncle that was a Fade. Strangest thing—there wasn't a hint of color in his eyes. Other than that you would never have known. He didn't do much, just sat around skulking most of the time. Though perhaps he was just a boring person, even before his thread was severed.*
 

@@ -1,4 +1,8 @@
-# Ego’s Fire
+---
+title: Ego's Fire
+hide: true
+---
+
 Ego’s Fire is a Cortex Prime one-shot set in the world of The Dark Between, exploring the backstories of [[Rikkart Lauten]] and [[Vera Lauten]] and their time as students at [[The Basentia Omnia|The Basentia]].
 
 #### Player Characters
@@ -40,7 +44,7 @@ If a hitch is rolled when using Luminous Magic, the *Thread Fatigue* stress is a
 - Rikkart will always want to do it. His ego and hubris are too great—he wants to make a name for himself
 - Ritual takes place at a  Sanctum of Aphothis. The Sanctums are a place that contain layers upon layers of Convictions throughout generations, and as a result they are places where the barrier between the mortal realm and the rest of reality is thin
 - La Cour's plan is to get them into the Sanctum of Aphothis and initiate a ritual to activate the Sanctum. The truth is, though, even he doesn't really know what he's discovered. Only bits of text here and there describing the Aphothians and their god, and has no idea that the ritual will attempt to sacrifice them.
-- Rikkart will be at the center of it, and his [[Thread]] will burn with a black fire, turning him into a [[The Faded|Fade]].
+- Rikkart will be at the center of it, and his [[Thread]] will burn with a black fire, turning him into a [[Fade|Fade]].
 - Abominations from The Dark Between will come through, and La Cour will be taken by madness, clawing at his own eyes, screaming about the Darkness.
 - Meanwhile, the city will start to crumble, starting with the Sanctum. The students will have limited time to grab Rikkart and get back to the Junction as quickly as possible.
 

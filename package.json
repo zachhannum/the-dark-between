@@ -45,7 +45,8 @@
     "react-quick-pinch-zoom": "^4.4.1",
     "react-toggle-dark-mode": "^1.1.0",
     "react-use-flexsearch": "^0.1.1",
-    "styled-components": "^5.3.5"
+    "styled-components": "^5.3.5",
+    "styled-icons": "^10.47.0"
   },
   "devDependencies": {
     "@types/gatsby-transformer-remark": "^2.9.1",

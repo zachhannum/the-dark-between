@@ -1,1 +1,0 @@
-The **Aspect of Force** is one of three [[Aspect|Aspects]] tied to the [[Primal Spirit of Water|Primal Water]] that [[Acronist|Acronists]] can utilize.

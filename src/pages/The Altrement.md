@@ -1,4 +1,6 @@
 ---
+title: The Altrement
+hide: true
 aliases: The Dark Between, Chaos
 ---
 

@@ -1,4 +1,7 @@
-# Character Creation
+---
+title: Cortex Character Creation
+hide: true
+---
 
 ## Prime Sets
 - Distinctions

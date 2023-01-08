@@ -1,7 +1,7 @@
 ---
+title: Conviction
 aliases: Convictions
 ---
-# Conviction
 
 A Conviction is a statement of belief to the Luminary, something that is not true but that the [[Acronist]] firmly believes is true. When [[Luminous Magic]] is cast on Naos, the wielder must form a Conviction strong enough to convince [[The Luminary]] that whatever they believe is reality, thus manifesting their belief in the physical world.
 

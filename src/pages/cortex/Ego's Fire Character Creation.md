@@ -1,3 +1,8 @@
+---
+title: Ego's Fire Character Creation
+hide: true
+---
+
 #### Character Breakdown
 ##### Distinctions
 Freeform, `jsx: <D8/>`, Hinder SFX + one distinction may have an additional SFX.

@@ -1,4 +1,5 @@
 ---
+title: Aljiedum Noble Houses
 aliases: Noble Houses
 ---
 

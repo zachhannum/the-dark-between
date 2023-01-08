@@ -1,4 +1,8 @@
-# Faro Desjardins
+---
+title: Faro Desjardins Cortex
+hide: true
+---
+
 #### Distinctions
 **Headstrong Brawler** `jsx:<D8/>`
 Faro has trained for the majority of his life in many different forms of hand-to-hand combat, and is currently one of [[The Basentia Omnia|The Basentia]]'s top [[Cato]] fighters.

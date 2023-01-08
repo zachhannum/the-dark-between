@@ -1,4 +1,7 @@
-# The Sixth Tinwheel
+---
+title: The Sixth Tinwheel
+---
+
 The Sixth Tinwheel is a tinwheel recorded by [[Enzo Quint]], and is the final tinwheel of a series of recordings Quint made regarding new research he had gathered. This tinwheel in particular seems to detail his disappearance.
 
 ## Audio

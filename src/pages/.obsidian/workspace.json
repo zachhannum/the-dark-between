@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Primal Spirits.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "043ebab44a3546b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Primal Spirits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +114,15 @@
   },
   "active": "a71f849600d9112b",
   "lastOpenFiles": [
-    "images/Morne_he_Dark_Between_the_void_between_realms_vantablack_planet_a58cae09-c2ef-4fa9-acb6-f5d7f8394b30.png",
-    "index.md",
-    "Primal Spirits.md",
-    "The Exchange.md",
-    "Aspects.md",
-    "Edification.md",
-    "Edifice.md",
     "Prismagates.md",
-    "Jules Kaplan.md",
-    "Conviction.md"
+    "index.md",
+    "The Ascension.md",
+    "Vytas Quint.md",
+    "Volkharn.md",
+    "Viceroy.md",
+    "Vera Lauten.md",
+    "Vastcaller.md",
+    "Varengard Family.md",
+    "Valent Childs.md"
   ]
 }

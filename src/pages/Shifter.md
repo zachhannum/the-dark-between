@@ -1,7 +1,7 @@
 ---
+title: Shifter
 aliases: shapeshifter, changeling
 ---
-# Shifter
 
 *One must not ask whether they have encountered a Shifter before, but when. They live among us. They could be your best friend, your neighbor, your cousin. They are completely imperceptible. When they shift, they do it completely and wholly. Governments have been toppled, Empires overthrown, because of them.*
 

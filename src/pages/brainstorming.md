@@ -1,3 +1,7 @@
+---
+hide: true
+---
+
 The Argent
 The Basentia Omnia
 Altrement

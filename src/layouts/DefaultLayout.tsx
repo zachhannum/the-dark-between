@@ -6,7 +6,7 @@ import { Header } from "../components";
 import { Image, Map, Center, Audio } from "../components";
 
 type DefaultLayoutProps = {
-  data: any;
+  pageContext: any;
   children: React.ReactNode;
 };
 
@@ -24,15 +24,31 @@ const ArticleContent = styled.div`
   margin: 25px auto;
 `;
 
+const Title = styled.div`
+  font-size: 2em;
+  font-weight: 600;
+  padding-bottom: 10px;
+`;
+
 const shortcodes = { Image, Map, Center, Audio };
 
-const DefaultLayout = ({ children }: DefaultLayoutProps) => {
+const DefaultLayout = ({ pageContext, children }: DefaultLayoutProps) => {
+  useEffect(() => {
+    console.log(pageContext);
+  }, []);
 
   return (
     <StyledContent>
       <Header />
       <ArticleContent>
-        <MDXProvider components={shortcodes}>{children}</MDXProvider>
+        {pageContext.frontmatter.hide ? (
+          <Title>This page is not public!</Title>
+        ) : (
+          <>
+            <Title>{pageContext.frontmatter.title}</Title>
+            <MDXProvider components={shortcodes}>{children}</MDXProvider>
+          </>
+        )}
       </ArticleContent>
     </StyledContent>
   );

@@ -1,4 +1,9 @@
-# Lotus
+---
+title: Lotus
+---
+
+!hidden
+
 Lotus is a drug developed by [[Vera Lauten]] and [[Enzo Quint]], although their original formula did not take the decorative form of a flower and had a different name, and was used for scientific research. 
 
 ## Development

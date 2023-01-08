@@ -1,4 +1,8 @@
-# Shani Mirza
+---
+title: Shani Mirza Cortex
+hide: true
+---
+
 Shani is quick with her words and even quicker with her blade. Both of her parents are devout [[The Argent|Argent]] Missaries, and she was met with disappointment when she decided to pursue education at the Basentia. Still, she has a plan to become a rich and famous Acronist, and will do whatever it takes to acheive her goals.
 #### Distinctions
 **Fast-talking Duelist** `jsx:<D8/>`

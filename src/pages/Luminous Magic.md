@@ -1,7 +1,7 @@
 ---
+title: Luminous Magic
 aliases: Luminancy
 ---
-# Luminous Magic
 
 Luminous Magic is Magic that is created or performed through [[The Luminary]]. This feat is accomplished through the [[Thread]]. Utilizing the direct connection with the Luminary allows one to bend reality to their will through a [[Conviction]]. Creating anything meaningful with Luminous Magic is no small feat, and although all living creatures on [[Naos]] have a Thread, few can utilize it to distort the fabric of reality to their will. Wielders of Luminous Magic are called [[Acronist|Acronists]].
 
@@ -43,7 +43,7 @@ While a particularly talented and rare [[Acronist]] may be able to manifest [[Co
 
 ## Loss of Magic
 
-Individuals who have had their [[Thread]] severed are called [[The Faded|Fades]], and can no longer manifest Luminous Magic or be directly affected by it.
+Individuals who have had their [[Thread]] severed are called [[Fade|Fades]], and can no longer manifest Luminous Magic or be directly affected by it.
 
 
 

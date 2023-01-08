@@ -1,7 +1,7 @@
 ---
+title: The Basentia Omnia
 aliases: The Basentia
 ---
-# The Basentia Omnia
 
 The Basentia Omnia is perhaps the most famous University in all of Eastern Naos. Located on the island of [[Aljiuedum]] in the city of [[Meripol]].
 

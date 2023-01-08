@@ -1,4 +1,8 @@
-# Rysha Tan Mei
+---
+title: Rysha Tan Mei Cortex
+hide: true
+---
+
 #### Distinctions
 **Elemental Scion of the Primal Water** `jsx:<D8/>`
 Rysha was born as an Elemental Scion of the Primal Spirit of Water, giving her a unique link to the Primal Water, changing her physical appearance and giving her control over the element of water.

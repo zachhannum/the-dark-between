@@ -1,8 +1,8 @@
 ---
+title: The Argent
 aliases: Argentia, The Holy Church of the Luminary
 inspiration: Hinduism, Shinto
 ---
-# The Argent
 
 The Argent is the largest religion in Naos, and the primary faith that worships [[The Luminary]] as a diety, most prevalent in [[Aljiuedum]] and [[Tharsis]]. It is also referred to as The Holy Church of the Luminary. Collectively, both the religion itself, the clergy, and those that follow the faith are referred to as the Argentia.
 

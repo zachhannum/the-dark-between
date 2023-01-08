@@ -1,3 +1,6 @@
+---
+hide: true
+---
 Kuri stepped into the icy waters, the stone floor rough against his bare feet. The cold metal of his amulet burned against his chest as he tried to take deep breaths. The dark pool before him did not seem welcoming as it had before. It knew what he had planned. The sheer walls of the domed room loomed over him, as if trapping him inside.
 
 “Remember your training, Kuri.” Professor Lufonte stood behind Kuri by the door. “You've made contact before. This time, you're just going to go a little further. This is an essential step in becoming an Acronist.”

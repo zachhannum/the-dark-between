@@ -1,4 +1,8 @@
-# Jules Kaplan
+---
+title: Jules Kaplan Cortex
+hide: true
+---
+
 #### Distinctions
 **Noble Kaplan** `jsx:<D8/>`
 Jules is a member of the *Kaplans*, a family with a storied history in Aljiedum with a great deal of wealth and influence. Jules is not afraid to use this influence as it suits him.

@@ -1,4 +1,8 @@
-# Rikkart Lauten
+---
+title: Rikkart Lauten Cortex
+hide: true
+---
+
 #### Distinctions
 **Prodigious Acronist** `jsx:<D8/>`
 - *Hinder*: Gain one PP when you switch out this distinction's die rating for a `jsx:<D4/>`

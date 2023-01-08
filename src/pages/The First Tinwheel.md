@@ -1,4 +1,7 @@
-# The First Tinwheel
+---
+title: The First Tinwheel
+---
+
 The First Tape is a tape recorded by [[Enzo Quint]], and is the first tape of a series of recordings Quint made regarding new research he had gathered.
 
 ## Audio

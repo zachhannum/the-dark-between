@@ -1,6 +1,10 @@
-# The Primal Aspects
+---
+title: Primal Aspects
+---
 
-Below is a list of the Primal Aspects and their descriptions.
+The **Primal Aspects** are twelve distinct domains that the six [[Primal Spirits]] are tied to, each Primal Spirit sharing two of its Aspects with other Spirits.
+
+![aspects|700](./images/aspects.png "center")
 
 ## Energy
 

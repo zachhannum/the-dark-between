@@ -1,4 +1,7 @@
-# Adam La Cour
+---
+title: Adam La Cour Cortex
+hide: true
+---
 
 #### Distinctions
 **Acronist of the Basentia** `jsx:<D8/>`

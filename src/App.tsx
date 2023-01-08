@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Helmet } from "react-helmet";
 import styled, { ThemeProvider } from "styled-components";
 import { lightTheme, darkTheme, GlobalStyle } from "./theme";
-import { DarkModeSwitch } from "./components";
+import { DarkModeSwitch, SearchModal } from "./components";
 
 type AppProps = {
   children: React.ReactNode;
@@ -53,6 +53,7 @@ export const App = ({ children }: AppProps) => {
       <GlobalStyle />
       {children}
       <DarkModeSwitch isDark={isDarkMode} onChange={toggleDarkMode} />
+      <SearchModal />
     </ThemeProvider>
   );
 };

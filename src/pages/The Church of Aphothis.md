@@ -1,1 +1,3 @@
-# The Church of Aphothis
+---
+title: The Church of Aphothis
+---

@@ -1,4 +1,6 @@
-# Cato
-#naos 
+---
+title: Cato
+---
 
-Cato is a traditional form of full-contact fighting popular among [[Augery|Augers]].
+
+Cato is a traditional form of full-contact fighting.

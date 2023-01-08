@@ -3,5 +3,6 @@
   "livePreview": false,
   "promptDelete": false,
   "attachmentFolderPath": "images",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true
 }

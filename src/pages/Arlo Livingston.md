@@ -1,5 +1,8 @@
-5# Arlo Livingston
-#character #player
+---
+title: Arlo Livingston
+---
+
+!hidden
 
 ## Early Life
 Arlo Livingston was an heir to the founder of the Prisma Travel Corporation, one of several transportation corporations in Aljieudum. His parents Eleanor and Alexander Livingston gave him a fairly pampered life growing up where everything was handed to him, from the top schooling opportunities to positions on any sports teams he wanted to join. He had one younger brother Cyril who he fought with constantly. 
@@ -25,5 +28,3 @@ Arlo is now entering his third year at the Bastentia.
 
 ## Criminal Ties
 Jax is point of contact. Contracted out by Jax for the company that he works for. Alro doesn’t really know him all that much. Jax is mostly all business. 
-
-Estelle is trying to “turn him good”

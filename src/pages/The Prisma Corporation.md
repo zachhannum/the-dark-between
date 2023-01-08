@@ -1,2 +1,0 @@
-# The Prisma Corporation
-**The Prisma Corporation** is a corporation based out of [[Meripol]] run by [[Alexander Livingston]]. Prisma is one of a few corporations that use [[Acronist#Vastcaller|Vastcallers]] to offer transport services by [[Aerostat]] and [[Grav-rail]], but they also oversee the maintaince of Meripol's [[Prismagates]].

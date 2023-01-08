@@ -1,5 +1,8 @@
-# The Second Tinwheel
-The Seconde Tinwheel is a [[Tinwheel]] recorded by [[Enzo Quint]], and is the second of a series of recordings Quint made regarding new research he had gathered.
+---
+title: The Second Tinwheel
+---
+
+The Second Tinwheel is a [[Tinwheel]] recorded by [[Enzo Quint]], and is the second of a series of recordings Quint made regarding new research he had gathered.
 
 ## Audio
 TBD
