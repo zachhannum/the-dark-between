@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bathysward.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bathysward.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "90e8e732f2091068",
   "lastOpenFiles": [
-    "Primal Spirits.md",
+    "Spirit Core.md",
+    "index.md",
+    "Primal Aspects.md",
+    "Conservator Brom.md",
     "Acronist.md",
-    "The Luminary.md",
-    "Thread.md",
-    "Bathysward.md",
-    "images/Morne_interior_of_an_undersea_marketplace_inside_a_bathysphere__888bf3f7-1b2c-4491-a36c-318200a97c97.png",
-    "Enzo Quint.md",
-    "Bathyslab.md",
-    "Deep Dwellers.md",
-    "images/Morne_A_humanoid_deep_sea_creature_wearing_a_deep_sea_diving_su_73849117-8565-44f9-96ce-d2f3e7ec196e.png"
+    "Adam La Cour.md",
+    "Affinity.md",
+    "Aadimaon.md",
+    "Dalvarius Harstone.md",
+    "Esharn.md"
   ]
 }
