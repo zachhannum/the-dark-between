@@ -11,8 +11,12 @@
             "id": "90e8e732f2091068",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bathysward.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bathysward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +106,15 @@
   },
   "active": "90e8e732f2091068",
   "lastOpenFiles": [
+    "Primal Spirits.md",
+    "Acronist.md",
+    "The Luminary.md",
     "Thread.md",
     "Bathysward.md",
     "images/Morne_interior_of_an_undersea_marketplace_inside_a_bathysphere__888bf3f7-1b2c-4491-a36c-318200a97c97.png",
     "Enzo Quint.md",
     "Bathyslab.md",
-    "Primal Spirits.md",
-    "Acronist.md",
     "Deep Dwellers.md",
-    "images/Morne_A_humanoid_deep_sea_creature_wearing_a_deep_sea_diving_su_73849117-8565-44f9-96ce-d2f3e7ec196e.png",
-    "images/Morne_A_humanoid_deep_sea_creature_wearing_a_deep_sea_diving_su_c28ba0d5-ed25-471a-b0e1-4c34ddf8b4bb.png"
+    "images/Morne_A_humanoid_deep_sea_creature_wearing_a_deep_sea_diving_su_73849117-8565-44f9-96ce-d2f3e7ec196e.png"
   ]
 }
