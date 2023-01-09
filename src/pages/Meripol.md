@@ -19,3 +19,15 @@ Being the location of [[The Basentia Omnia]], Meripol also thrives with its cons
 Finally, the Msanti outpost located on the southern plateau plays a significant role in the city's economy, serving as a hub for trade and diplomacy between the overlanders and the [[Deep Dwellers|Msanti]]. The outpost is home to a number of merchants who specialize in the unique goods produced by the Msanti, such as their advanced technological devices, and it serves as a gateway for cultural exchange between the two groups.
 
 Overall, the economy of Meripol is diverse and dynamic, with a wide range of industries contributing to its prosperity and growth.
+
+## Government
+
+Meripol is the capitol city of [[Aljieudum]] and as such, plays a central role in the nation's political landscape. The city's government is made up of two main bodies: the [[Chamber of Nobles]] and the [[Assembly of Vassals]]. The Chamber of Nobles is made up of various noble families and aristocrats from across the kingdom, who hold hereditary positions and wield significant political influence. The Assembly of Vassals, on the other hand, is made up of elected officials who represent the city's various districts and neighborhoods.
+
+Both the Chamber of Nobles and the Assembly of Vassals play important roles in the city's decision-making process, and they often work together to pass legislation and set policies. However, there are also times when they are at odds, with the Chamber of Nobles representing the interests of the aristocracy and the Assembly of Vassals representing the interests of the common people.
+
+In addition to these two main bodies, there is also  [[The Argent]], a powerful religious organization that wields significant political influence in Meripol and throughout Aljiuedum. The Argent is made up of a council of high-ranking clergy who advise the city's leaders on matters of faith and morals regarding [[The Luminary]], and they also play a role in enforcing the city's laws and maintaining order.
+
+Other important positions in the city's government include the Mayor of Meripol, who is responsible for overseeing the day-to-day operations of the city and implementing the policies set by the Chamber of Nobles and the Assembly of Vassals, and the Chief Justice, who presides over the city's courts and the city's law enforcement, [[The Vigil]], and is responsible for interpreting and enforcing the law. There are also a number of other officials and departments responsible for various aspects of the city's administration, such as finance, public works, and security.
+
+Overall, the politics of Meripol are complex and multifaceted, with a variety of actors and interests at play. The city's leaders must navigate the competing demands of its various constituents in order to govern effectively and ensure the well-being of its citizens.
