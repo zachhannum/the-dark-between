@@ -26,6 +26,8 @@ In addition to its maritime industries, Meripol is also home to a number of arti
 
 Another major contributor to the city's economy is tourism, with Meripol's beautiful coastal setting and rich cultural heritage attracting visitors from all over the kingdom and beyond. The city's many hotels, inns, and bed and breakfasts are always busy, and its many attractions, such as its historic landmarks, museums, and cultural festivals, such as ones celebrating [[Illuminaris]], draw large crowds of tourists.
 
+![Grav-train passing through Meripol|300](./images/Morne_Close_up_view_of_a_train_on_a_bridge_moving_through_a_fan_69e6b7d4-d275-43cd-b5b1-667d810ba074.png "left center horizontal")
+
 Being the location of [[The Basentia Omnia]], Meripol also thrives with its constant influx of [[Acronist|Acronists]] graduating from the university and entering various industries, such as travel ([[Grav-rail]], Aerostats, [[Prismagates]]), Energy ([[Acronist#Furybearers|Furybearers]] powering the cities electrical systems), and more.
 
 Finally, the Msanti outpost located on the southern plateau plays a significant role in the city's economy, serving as a hub for trade and diplomacy between the overlanders and the [[Deep Dwellers|Msanti]]. The outpost is home to a number of merchants who specialize in the unique goods produced by the Msanti, such as their advanced technological devices, and it serves as a gateway for cultural exchange between the two groups.
