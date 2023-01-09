@@ -1,5 +1,5 @@
 
-![The Dark Between|700](./images/Morne_he_Dark_Between_the_void_between_realms_vantablack_planet_a58cae09-c2ef-4fa9-acb6-f5d7f8394b30.png "center horizontal")
+![|700](./images/Morne_he_Dark_Between_the_void_between_realms_vantablack_planet_a58cae09-c2ef-4fa9-acb6-f5d7f8394b30.png "center horizontal")
 
 *The Dark Between* is a sort of “Steampunk”, sort of “Gaslamp” fantasy setting that takes place on the planet of [[Naos]]. The heart of *The Dark Between* lies in the exploration of themes of gray morality, authority versus autonomy, chaos and order, and the concept that the more we know about the Universe, the more we don't.
 
@@ -9,7 +9,7 @@ This setting has everything from unknowable elemental beings, powerful spellcast
 
 In Naos, the primary source of Magic is [[The Luminary]], contained within a great celestial moon that orbits the planet. All living creatures on Naos are connected to the Luminary through an unseen, metaphysical strand known as a [[Thread]]. Magic on Naos is more specifically known as [[Luminous Magic]].
 
-![thread|400](./images/Morne_a_young_mage_and_ethereal_rope_made_of_light_coming_from__230452e4-1d1e-4525-a060-724e16d1d24a.png "right center horizontal")
+![An Acronist and his Thread|400](./images/Morne_a_young_mage_and_ethereal_rope_made_of_light_coming_from__230452e4-1d1e-4525-a060-724e16d1d24a.png "right center horizontal")
 
 
 Manifesting magical effects with Luminous Magic involves interfacing directly with the Luminary using the Thread and providing the celestial entity with a [[Conviction]].

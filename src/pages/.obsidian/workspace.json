@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meripol.md",
+                "file": "Thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bathyslab",
+                "query": "![",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meripol.md",
+                "file": "Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +119,15 @@
   },
   "active": "968bff87562d23fb",
   "lastOpenFiles": [
+    "The Luminary.md",
+    "Sulazar Stillwater.md",
+    "Rysha Tan Mei.md",
     "Prismagates.md",
-    "Meripol.md",
-    "Aljiedum Noble Houses.md",
-    "Illuminaris.md",
-    "Chamber of Nobles.md",
-    "Assembly of Vassals.md",
-    "Varengard Family.md",
-    "Jules Kaplan.md",
-    "Kaplan Family.md",
-    "Lauten Family.md"
+    "Primal Spirits.md",
+    "Primal Aspects.md",
+    "Junction.md",
+    "index.md",
+    "images/Morne_he_Dark_Between_the_void_between_realms_vantablack_planet_a58cae09-c2ef-4fa9-acb6-f5d7f8394b30.png",
+    "Deep Dwellers.md"
   ]
 }

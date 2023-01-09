@@ -3,7 +3,7 @@ title: Prismagates
 ---
 
 
-![prismagate|500](./images/Morne_An_immense_prismatic_portal_circular_gate_structure_atop__2a93c164-c671-47fc-aa0b-9a8f76b3c661.png "center right horizontal")
+![A Prismagate in Savaar|500](./images/Morne_An_immense_prismatic_portal_circular_gate_structure_atop__2a93c164-c671-47fc-aa0b-9a8f76b3c661.png "center right horizontal")
 
 **Prismagates** are massive [[Junction|Junctions]] maintained by [[Acronist#Vastcaller|Vastcallers]] meant to transport Aerostats between cities. These require significant coordination between governments, as Junctions this large must be meticulously preserved to remain functional.
 

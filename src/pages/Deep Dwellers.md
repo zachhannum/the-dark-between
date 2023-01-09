@@ -7,7 +7,7 @@ aliases: Msanti, Altuer
 
 <div style="text-align: right">—Gael Cairright, Of The Sea and Below</div>
 
-![deep dweller|550](./images/Morne_A_humanoid_deep_sea_creature_wearing_a_deep_sea_diving_su_c28ba0d5-ed25-471a-b0e1-4c34ddf8b4bb.png "right center horizontal")
+![Deep Dweller on the streets of Meripol|550](./images/Morne_A_humanoid_deep_sea_creature_wearing_a_deep_sea_diving_su_c28ba0d5-ed25-471a-b0e1-4c34ddf8b4bb.png "right center horizontal")
 
 The Msanti, or the Dwellers in the Deep, as they are otherwise known, are humanoid creatures that live in the depths of the ocean. It is said that long ago, they were banished to the sea after an indiscretion with the [[Primal Spirit of Water]].
 

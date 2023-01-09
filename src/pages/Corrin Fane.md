@@ -2,7 +2,7 @@
 title: Corrin Fane
 ---
 
-![corrin fane|400](./images/Morne_Corrin_Fane_a_thin_man_in_his_early_fifties_with_shoulder_66785603-9047-49ab-a09c-46cb27943c42.png "right center square")
+![Corrin Fane in his study|400](./images/Morne_Corrin_Fane_a_thin_man_in_his_early_fifties_with_shoulder_66785603-9047-49ab-a09c-46cb27943c42.png "right center square")
 
 **Corrin Fane** is the founder and director of the [[Saetorim Institute]]. He is a middle-aged man with shoulder-length hair, peppered with gray, copper skin, and a cropped gray beard.
 
