@@ -203,7 +203,7 @@ export const SearchModal = () => {
     return () => {
       window.removeEventListener("keydown", handleKeyDown);
     };
-  }, []);
+  }, [platform]);
 
   // Focus the input when show is true
   useEffect(() => {
