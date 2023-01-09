@@ -50,7 +50,12 @@ const config: GatsbyConfig = {
                 if (result.alt) {
                   width = `width="${result.alt.split("|")[1]}px"`;
                 }
-                return `<img src="${result.src}" srcSet="${result.srcSet}" ${classes} ${width}/>`;
+                return `
+                <div ${classes}>
+                  <img src="${result.src}" srcSet="${result.srcSet}" ${width}/>
+                  <div class="caption">${result.alt.split("|")[0]}</div>
+                </div>
+                `;
               },
               maxWidth: 1500,
             },
