@@ -116,12 +116,9 @@ const SearchIconContainer = styled.div`
   cursor: pointer;
   justify-content: center;
   align-items: center;
-  gap: 10px;
-  border-radius: 12px;
-  padding: 4px;
-  border: 1px solid ${(p) => p.theme.fg[3]};
+
   position: absolute;
-  top: 14px;
+  top: 20px;
   right: 60px;
   font-size: 0.7em;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
@@ -132,6 +129,20 @@ const SearchIconContainer = styled.div`
     border-color: ${(p) => p.theme.fg[1]};
   }
   transition: background-color 0.2s ease-in-out;
+
+  @media (min-width: 600px) {
+    top: 14px;
+    gap: 10px;
+    border-radius: 12px;
+    padding: 4px;
+    border: 1px solid ${(p) => p.theme.fg[3]};
+  }
+`;
+
+const SearchText = styled.span`
+  @media (max-width: 600px) {
+    display: none;
+  }
 `;
 
 const SearchKeybinding = styled.span`
@@ -141,6 +152,9 @@ const SearchKeybinding = styled.span`
   border: 1px solid ${(p) => p.theme.fg[3]};
   line-height: 100%;
 
+  @media (max-width: 600px) {
+    display: none;
+  }
 `;
 
 const SearchIcon = styled(Search)`
@@ -211,14 +225,12 @@ export const SearchModal = () => {
         }}
       >
         <SearchIcon />
-        <span>Search...</span>
-          {platform.toLowerCase().includes("mac") ? (
-            <SearchKeybinding>⌘K</SearchKeybinding>
-          ) : (
-            <SearchKeybinding>
-              Ctrl+K
-            </SearchKeybinding>
-          )}
+        <SearchText>Search...</SearchText>
+        {platform.toLowerCase().includes("mac") ? (
+          <SearchKeybinding>⌘K</SearchKeybinding>
+        ) : (
+          <SearchKeybinding>Ctrl+K</SearchKeybinding>
+        )}
       </SearchIconContainer>
       <StyledBackgroundBlur
         show={show}
