@@ -53,6 +53,68 @@ const GlobalStyle = createGlobalStyle`
     letter-spacing: .1rem;
     font-weight: 500;
   }
+
+  img {
+  display: block;
+  max-width: 80%;
+  mask-size: contain;
+}
+
+div.center {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.caption {
+  font-size: 0.9em;
+  color: ${(p) => p.theme.fg[1]};
+}
+
+img.horizontal {
+  mask-image: url(./src/pages/images/horizontal-image-mask.png);
+}
+
+img.vertical {
+  mask-image: url(./src/pages/images/vertical-image-mask.png);
+}
+
+img.square {
+  mask-image: url(./src/pages/images/square-image-mask.png);
+}
+
+@media (min-width: 750px) {
+  div.right {
+    margin-top: -10px;
+    float: right;
+  }
+}
+
+@media (min-width: 750px) {
+  div.left {
+    margin-top: -10px;
+    float: left;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 12px; /* for vertical scrollbars */
+  height: 12px; /* for horizontal scrollbars */
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+}
 `;
 
 export default GlobalStyle;

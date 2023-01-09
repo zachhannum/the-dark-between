@@ -6,8 +6,7 @@ Meripol is the largest city in [[Aljieudum]], as well as its capitol. The city i
 
 ## Geography
 
-Meripol's layout is largely driven by its geography. The entirety of the city proper is built atop a series of plateaus along the coastline, with a number of interconnected bridges, both for walking and for [[Grav-rail]]. For those that can afford it, some citizens of Meripol also make use of [[Aerostat|Aerostats]]
-
+Meripol's layout is largely driven by its geography. The entirety of the city proper is built atop a series of plateaus along the coastline, with a number of interconnected bridges, both for walking and for [[Grav-rail]]. For those that can afford it, some citizens of Meripol also make use of [[Aerostat|Aerostats]].
 
 ## Economy
 

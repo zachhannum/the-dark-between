@@ -52,7 +52,7 @@ const config: GatsbyConfig = {
                 }
                 return `
                 <div ${classes}>
-                  <img src="${result.src}" srcSet="${result.srcSet}" ${width}/>
+                  <img src="${result.src}" srcSet="${result.srcSet}" ${width} ${classes}/>
                   <div class="caption">${result.alt.split("|")[0]}</div>
                 </div>
                 `;
