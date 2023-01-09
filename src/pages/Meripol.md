@@ -2,11 +2,19 @@
 title: Meripol
 ---
 
+![The Central District of Meripol|600](./images/Morne_Birds_eye_view_of_a_massive_city_with_tall_towers_atop_a__f480cc4b-2010-452c-9ba1-fa058c305e7a.png "right center horizontal")
+
 Meripol is the largest city in [[Aljieudum]], as well as its capitol. The city is built onto a series of plateaus along the southern coast of Aljieudum, each of the city’s districts being housed on a different shelf. Inside the canyons between the plateau’s there are a number of villages and towns. There is also an elevator on the southern plateau that leads to a [[Deep Dwellers|Msanti]] outpost attached to Meripol, a sort of trading center, embassy, and welcome center for relations between the overlanders and the Msanti.
 
 ## Geography
 
 Meripol's layout is largely driven by its geography. The entirety of the city proper is built atop a series of plateaus along the coastline, with a number of interconnected bridges, both for walking and for [[Grav-rail]]. For those that can afford it, some citizens of Meripol also make use of [[Aerostat|Aerostats]].
+
+![Meripol's Prismagate|400](./images/Morne_Massive_portal_made_of_a_gothic_architecture_circular_str_2cb57f20-1dcb-479a-9913-303ea71143a4.png "center horizontal")
+
+## The Prismagate
+
+As Aljieudum's capitol city, Meripol has a highly trafficked [[Prismagates|Prismagate]] that is used by travelers to visit the city from all over the world, though primarily nations in [[Edelun]] and [[Selar]]. This is the primary method of transportation for commercial trade and government officials from [[Tharsis]] and other countries along the northwestern coast of [[Selar]].
 
 ## Economy
 

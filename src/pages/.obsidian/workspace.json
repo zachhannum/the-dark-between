@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba1049e9aa8a6ede",
+        "id": "18578e8e7438bb9a",
         "type": "tabs",
         "children": [
           {
-            "id": "968bff87562d23fb",
+            "id": "b36369bbc4d78996",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thread.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb4291e86aa76a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prismagates.md",
+                "file": "Pal Tenach.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thread.md",
+                "file": "Pal Tenach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +104,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "968bff87562d23fb",
+  "active": "b36369bbc4d78996",
   "lastOpenFiles": [
+    "The Ascension.md",
+    "Meripol.md",
+    "Prismagates.md",
+    "Mehnateruna.md",
+    "The Basentia Omnia.md",
+    "Thread.md",
     "The Luminary.md",
     "Sulazar Stillwater.md",
     "Rysha Tan Mei.md",
-    "Prismagates.md",
-    "Primal Spirits.md",
-    "Primal Aspects.md",
-    "Junction.md",
-    "index.md",
-    "images/Morne_he_Dark_Between_the_void_between_realms_vantablack_planet_a58cae09-c2ef-4fa9-acb6-f5d7f8394b30.png",
-    "Deep Dwellers.md"
+    "Primal Spirits.md"
   ]
 }

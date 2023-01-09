@@ -150,17 +150,8 @@ export const SearchModal = () => {
         setShow(false);
       }
     };
-    // handler to close the search modal if the user clicks outside of the search modal
-    const handleClick = (event: MouseEvent) => {
-      const target = event.target as HTMLElement;
-      if (modalRef.current && !modalRef.current.contains(target) && show) {
-        setShow(false);
-      }
-    };
-    window.addEventListener("click", handleClick);
     window.addEventListener("keydown", handleKeyDown);
     return () => {
-      window.removeEventListener("click", handleClick);
       window.removeEventListener("keydown", handleKeyDown);
     };
   }, []);
@@ -184,7 +175,12 @@ export const SearchModal = () => {
           setShow(true);
         }}
       />
-      <StyledBackgroundBlur show={show}>
+      <StyledBackgroundBlur
+        show={show}
+        onClick={() => {
+          if (show) setShow(false);
+        }}
+      >
         <StyledSearchModal show={show} ref={modalRef}>
           <StyledSearchModalInput
             placeholder="Search..."
