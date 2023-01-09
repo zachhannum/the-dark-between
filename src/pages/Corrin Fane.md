@@ -6,7 +6,7 @@ title: Corrin Fane
 
 !hidden
 
-Originally, Corrin sailed aboard the [[Grand Fortuna]] as her Bosun, but when the ship sank in [[Gris]], he stayed in the town for two years, growing evermore curious about the town’s oddities and “strange occurences.”
+Originally, Corrin sailed aboard the [[Grand Fortuna]] as her Bosun, but when the ship sank in [[Gris]], he stayed in the town for two years, growing evermore curious about the town’s oddities and “strange occurrences.”
 
 Eventually, he came to [[Meripol]] and founded the Institute, which became a novel attraction to the populace.
 
