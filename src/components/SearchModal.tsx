@@ -142,7 +142,21 @@ export const SearchModal = () => {
   // create useEffect on mount to listen for the keybinding Ctrl+S to open the search
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
-      if (event.metaKey && event.key === "k") {
+      let useMetaKey = false;
+      const platform = navigator.userAgentData?.platform;
+      if (platform) {
+        if (platform.includes("Mac")) {
+          useMetaKey = true;
+        }
+      }
+      // try to detect platform using navigator.platform
+      else if (navigator.platform) {
+        if (navigator.platform.includes("Mac")) {
+          useMetaKey = true;
+        }
+      }
+      const modKeyPressed = useMetaKey ? event.metaKey : event.ctrlKey;
+      if (modKeyPressed && event.key === "k") {
         event.preventDefault();
         setShow(true);
       }
