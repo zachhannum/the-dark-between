@@ -53,6 +53,9 @@ Of the spirits, Soul was always the most *concious* and aware. While the other S
 ## In the Modern Age
 In the modern age of Naos, most civilizations treat the Spirits as they are, powerful and primal beings that are vast and potentially dangerous, but not gods. Some civilizations, however, still worship one or more of the spirits as dieties. Some [[Shifter|Shifters]] worship the [[Primal Spirit of Bone]] as a sort of god-like figure. Pockets of Msanti culture worship [[Primal Spirit of Water|Primal Water]]. There are various human cultures that worship the different elemental spirits in more ways than one.
 
+
+![primal air|400](./images/Morne_The_primal_spirit_of_air_a_vast_wind_fantasy_art_b3efae58-89ac-457f-89e3-af9559f9f751.png "right center horizontal")
+
 ## Creation of New Spirits
 While it is technically feasible for new spirits to be created, the largely varying cultures and beliefs that make up Naos in the modern age make in very unlikely that new spirits would come about. The rise of logic, reason, and science too make such a *mass* Conviction possible, at least without a deliberate and coordinated effort. The Primal Spirits were a certainly a unique occurrence, and their creation the result of a perfect storm.
 

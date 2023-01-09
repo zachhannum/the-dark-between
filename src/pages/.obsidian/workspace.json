@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junction.md",
+                "file": "Primal Spirits.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junction.md",
+                "file": "Primal Spirits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +118,8 @@
   },
   "active": "90e8e732f2091068",
   "lastOpenFiles": [
-    "Prismagates.md",
     "Junction.md",
+    "Prismagates.md",
     "index.md",
     "Spirit Core.md",
     "Primal Aspects.md",
