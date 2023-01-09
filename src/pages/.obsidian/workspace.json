@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corrin Fane.md",
+                "file": "Sulazar Stillwater.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corrin Fane.md",
+                "file": "Sulazar Stillwater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "90e8e732f2091068",
   "lastOpenFiles": [
+    "Corrin Fane.md",
     "Rysha Tan Mei.md",
     "Elemental Scion.md",
     "Assembly of Vassals.md",
@@ -126,7 +127,6 @@
     "Primal Spirits.md",
     "Shifter.md",
     "Junction.md",
-    "Prismagates.md",
-    "index.md"
+    "Prismagates.md"
   ]
 }
