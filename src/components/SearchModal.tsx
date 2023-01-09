@@ -5,7 +5,7 @@ import { useFlexSearch } from "react-use-flexsearch";
 import { Search } from "@styled-icons/evaicons-solid/Search";
 import styled, { css } from "styled-components";
 import { Image, Map, Center, Audio } from "../components";
-const shortcodes = { Image, Map, Center, Audio };
+import { usePlatform } from "../hooks";
 
 type Result = {
   id: string;
@@ -111,13 +111,42 @@ const StyledSearchModalInput = styled.input<StyledSearchModalInputProps>`
         `}
 `;
 
+const SearchIconContainer = styled.div`
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 12px;
+  padding: 4px;
+  border: 1px solid ${(p) => p.theme.fg[3]};
+  position: absolute;
+  top: 14px;
+  right: 60px;
+  font-size: 0.7em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: ${(p) => p.theme.fg[3]};
+  &:hover {
+    background-color: ${(p) => p.theme.bg[1]};
+    border-color: ${(p) => p.theme.fg[1]};
+  }
+  transition: background-color 0.2s ease-in-out;
+`;
+
+const SearchKeybinding = styled.span`
+  padding: 3px;
+  border-radius: 7px;
+  /* font-size: 0.6em; */
+  border: 1px solid ${(p) => p.theme.fg[3]};
+  line-height: 100%;
+
+`;
+
 const SearchIcon = styled(Search)`
   color: ${(p) => p.theme.fg[1]};
-  cursor: pointer;
-  position: absolute;
-  top: 20px;
-  right: 60px;
   height: 20px;
+  cursor: pointer;
 `;
 
 export const SearchModal = () => {
@@ -138,24 +167,14 @@ export const SearchModal = () => {
   const [show, setShow] = useState(false);
   const modalRef = React.useRef<HTMLDivElement>(null);
   const inputRef = React.useRef<HTMLInputElement>(null);
+  const platform = usePlatform();
 
   // create useEffect on mount to listen for the keybinding Ctrl+S to open the search
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
       let useMetaKey = false;
-      const platform = navigator.userAgentData?.platform;
-      if (platform) {
-        console.log(platform);
-        if (platform.includes("Mac")) {
-          useMetaKey = true;
-        }
-      }
-      // try to detect platform using navigator.platform
-      else if (navigator.platform) {
-        console.log(navigator.platform);
-        if (navigator.platform.includes("Mac")) {
-          useMetaKey = true;
-        }
+      if (platform.toLowerCase().includes("mac")) {
+        useMetaKey = true;
       }
       const modKeyPressed = useMetaKey ? event.metaKey : event.ctrlKey;
       if (modKeyPressed && event.key === "k") {
@@ -185,12 +204,22 @@ export const SearchModal = () => {
 
   return (
     <>
-      <SearchIcon
+      <SearchIconContainer
         onClick={() => {
           console.log("clicked");
           setShow(true);
         }}
-      />
+      >
+        <SearchIcon />
+        <span>Search...</span>
+          {platform.toLowerCase().includes("mac") ? (
+            <SearchKeybinding>⌘K</SearchKeybinding>
+          ) : (
+            <SearchKeybinding>
+              Ctrl+K
+            </SearchKeybinding>
+          )}
+      </SearchIconContainer>
       <StyledBackgroundBlur
         show={show}
         onClick={() => {
