@@ -145,12 +145,14 @@ export const SearchModal = () => {
       let useMetaKey = false;
       const platform = navigator.userAgentData?.platform;
       if (platform) {
+        console.log(platform);
         if (platform.includes("Mac")) {
           useMetaKey = true;
         }
       }
       // try to detect platform using navigator.platform
       else if (navigator.platform) {
+        console.log(navigator.platform);
         if (navigator.platform.includes("Mac")) {
           useMetaKey = true;
         }
