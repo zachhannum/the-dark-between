@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assembly of Vassals.md",
+                "file": "Corrin Fane.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 457.5
   },
   "right": {
     "id": "7a2b453afa427c2b",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assembly of Vassals.md",
+                "file": "Corrin Fane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "90e8e732f2091068",
   "lastOpenFiles": [
-    "Artificial Thread.md",
+    "Rysha Tan Mei.md",
+    "Elemental Scion.md",
     "Assembly of Vassals.md",
+    "Artificial Thread.md",
     "Bathysward.md",
     "Primal Spirits.md",
     "Shifter.md",
     "Junction.md",
     "Prismagates.md",
-    "index.md",
-    "Spirit Core.md",
-    "Primal Aspects.md"
+    "index.md"
   ]
 }

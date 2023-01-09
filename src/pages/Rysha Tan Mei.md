@@ -2,6 +2,8 @@
 title: Rysha Tan Mei
 ---
 
+![rysha|400](./images/Morne_Rysha_tan_mei_is_in_her_late_thirties_she_is_a_water_gena_bf57d5e6-5f8d-426f-b80b-c0d15721291e.png "left center horizontal")
+
 Rysha Tan Mei was a student at [[The Basentia Omnia|The Basentia]] at the same time that [[Rikkart Lauten]] was. Rysha was born an [[Elemental Scion]] of the [[Primal Spirit of Water|Primal Water Spirit]]. She was born to a wealthy, aristocratic family in [[Tharsis]]. When she came of age, she was sent to [[Aljiuedum]] to attend University at [[The Basentia Omnia|The Basentia]] to become an [[Acronist]] per family tradition.
 
 ## Ubringing
