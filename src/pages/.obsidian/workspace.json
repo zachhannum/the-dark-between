@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primal Spirits.md",
+                "file": "Assembly of Vassals.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primal Spirits.md",
+                "file": "Assembly of Vassals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "90e8e732f2091068",
   "lastOpenFiles": [
+    "Artificial Thread.md",
+    "Assembly of Vassals.md",
+    "Bathysward.md",
+    "Primal Spirits.md",
+    "Shifter.md",
     "Junction.md",
     "Prismagates.md",
     "index.md",
     "Spirit Core.md",
-    "Primal Aspects.md",
-    "Conservator Brom.md",
-    "Acronist.md",
-    "Adam La Cour.md",
-    "Affinity.md",
-    "Aadimaon.md"
+    "Primal Aspects.md"
   ]
 }
