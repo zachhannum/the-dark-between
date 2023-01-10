@@ -8,13 +8,12 @@ const mapPagesUrls = {
 const config: GatsbyConfig = {
   siteMetadata: {
     title: `The Dark Between`,
-    siteUrl: `http://midnightprioriem.github.io/the-dark-between/`,
+    siteUrl: `http://thedarkbetween.aratheum.com`,
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
   // Learn more at: https://gatsby.dev/graphql-typegen
   graphqlTypegen: true,
-  pathPrefix: "/the-dark-between",
   plugins: [
     "gatsby-plugin-styled-components",
     "gatsby-plugin-image",
@@ -30,7 +29,7 @@ const config: GatsbyConfig = {
           {
             resolve: `gatsby-remark-obsidian`,
             options: {
-              titleToURL: (title: string) => `./${title}`,
+              titleToURL: (title: string) => `/${title}`,
             },
           },
           "gatsby-remark-copy-linked-files",

@@ -6,6 +6,7 @@
       {
         "id": "18578e8e7438bb9a",
         "type": "tabs",
+        "dimension": 49.34679334916864,
         "children": [
           {
             "id": "cb8e1697c8876a1f",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lucian Cullpepper.md",
+                "file": "Arlo Livingston.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sulazar Stillwater.md",
+                "file": "Arlo Livingston.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arlo Livingston.md",
+                "file": "Eileen Quint.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,6 +49,7 @@
       {
         "id": "6cd4653385f64cb4",
         "type": "tabs",
+        "dimension": 50.65320665083135,
         "children": [
           {
             "id": "0884528d3d845e35",
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dark Between - Campaign Sessions/Planning.md",
+                "file": "Arlo Livingston.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,14 +150,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eb28903b46097cb9",
+  "active": "cb8e1697c8876a1f",
   "lastOpenFiles": [
-    "brainstorming.md",
-    "Eileen Quint.md",
-    "The Dark Between - Campaign Sessions/Planning.md",
     "Lucian Cullpepper.md",
     "Arlo Livingston.md",
+    "The Dark Between - Campaign Sessions/Planning.md",
     "Sulazar Stillwater.md",
+    "Eileen Quint.md",
+    "brainstorming.md",
     "Lotus.md",
     "Meripol.md",
     "cortex/Ego's Fire.md",

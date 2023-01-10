@@ -54,6 +54,10 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 500;
   }
 
+  h2 {
+    line-height: 1.2em;
+  }
+
   .caption {
     font-size: 0.9em;
     color: ${(p) => p.theme.fg[3]};
