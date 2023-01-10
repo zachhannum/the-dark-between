@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "6cd4653385f64cb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0884528d3d845e35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dark Between - Campaign Sessions/Planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "![",
+                "query": "year",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 457.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a2b453afa427c2b",
@@ -106,15 +125,15 @@
   },
   "active": "b36369bbc4d78996",
   "lastOpenFiles": [
+    "cortex/Ego's Fire.md",
+    "Eileen Quint.md",
+    "Enzo Quint.md",
+    "The Dark Between - Campaign Sessions/Planning.md",
     "Lucian Cullpepper.md",
     "Bathysward.md",
     "Acronist.md",
     "Meripol.md",
     "Pal Tenach.md",
-    "The Ascension.md",
-    "Prismagates.md",
-    "Mehnateruna.md",
-    "The Basentia Omnia.md",
-    "Thread.md"
+    "The Ascension.md"
   ]
 }
