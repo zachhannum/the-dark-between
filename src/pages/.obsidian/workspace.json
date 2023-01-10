@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lucian Cullpepper.md",
+                "file": "Eileen Quint.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lucian Cullpepper.md",
+                "file": "Eileen Quint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "b36369bbc4d78996",
   "lastOpenFiles": [
+    "Lucian Cullpepper.md",
     "Bathysward.md",
     "Acronist.md",
     "Meripol.md",
@@ -114,7 +115,6 @@
     "Prismagates.md",
     "Mehnateruna.md",
     "The Basentia Omnia.md",
-    "Thread.md",
-    "The Luminary.md"
+    "Thread.md"
   ]
 }
