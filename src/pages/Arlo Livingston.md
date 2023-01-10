@@ -2,6 +2,22 @@
 title: Arlo Livingston
 ---
 
+![Arlo Livingston|400](./images/Morne_a_young_man_wearing_a_turtle_neck_and_a_long_blue_coat_st_703294ce-f2e5-4ce6-909d-66de6073918a.png "right center vertical")
+
+Arlo Livingston is a student at [[The Basentia Omnia|The Basentia]] studying to be an [[Acronist#Farseeker]]. He seems to have connections to a man named [[Jax]] that has ties to the criminal underground, and has done jobs for the man. Arlo has also recently started working for [[Corrin Fane]] at the [[Saetorim Institute]], and has become involved with the missing person's case of [[Enzo Quint]], along with [[Sulazar Stillwater]], [[Lucian Cullpepper]], and [[Eileen Quint]].
+
+## Background
+
+It is unclear at this time how Arlo came to be a student at The Basentia, but it seems clear that he is paying his tuition through the jobs he receives from [[Jax]], and now through his job at the Saetorim Institute.
+
+## Events of Enzo Quint's Dissapearance
+
+Arlo, through the [[Saetorim Institute]], has been involved in the case of Enzo Quint's dissapearance and suspected kidnapping. 
+
+Using his connections, Arlo used his connection [[Jax]] to obtain a copy of [[The Second Tinwheel]] that [[Enzo Quint]] created, revealing further evidence into his dissapearance. In return, Arlo infiltrated a [[The Sonxai|Sonxai]] warehouse containing [[Lotus]] to attempt to figure out how the drug is made. He encountered a [[Deep Dwellers|Msanti]] there guarding the warehouse, and while unable to obtain a recipe for the drug, did escape with a bathymetric map of the bay outside of [[Meripol]], with a mysterious location marked on it.
+
+Arlo was also a part of the investigation into the [[Lauten Family]] and their relation to Enzo's dissapearance. He, along with [[Eileen Quint]], and [[Sulazar Stillwater]], acted as hired staff for one of the galas that the Lauten's regularly host. During the party, Arlo discovered a [[Shifter]] named [[Elijah]] posing as [[Rikkart Lauten]], and learned that Elijah had been hired by the family to pose as Rikkart for the past fifteen years, after Rikkart's [[Thread]] was severed in [[Mehnateruna]].
+
 !hidden
 
 ## Early Life

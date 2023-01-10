@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b36369bbc4d78996",
+            "id": "cb8e1697c8876a1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meripol.md",
+                "file": "Lucian Cullpepper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eba09614a77c3742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sulazar Stillwater.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "338fb562f63f451c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arlo Livingston.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "year",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +99,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meripol.md",
+                "file": "The Dark Between - Campaign Sessions/Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +148,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b36369bbc4d78996",
+  "active": "eb28903b46097cb9",
   "lastOpenFiles": [
+    "brainstorming.md",
     "Eileen Quint.md",
-    "cortex/Ego's Fire.md",
-    "Enzo Quint.md",
     "The Dark Between - Campaign Sessions/Planning.md",
     "Lucian Cullpepper.md",
-    "Bathysward.md",
-    "Acronist.md",
+    "Arlo Livingston.md",
+    "Sulazar Stillwater.md",
+    "Lotus.md",
     "Meripol.md",
-    "Pal Tenach.md",
-    "The Ascension.md"
+    "cortex/Ego's Fire.md",
+    "Enzo Quint.md"
   ]
 }

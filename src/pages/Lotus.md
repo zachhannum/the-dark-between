@@ -2,6 +2,8 @@
 title: Lotus
 ---
 
+**Lotus** is a street drug that became popular in [[Meripol]], known for its psychedelic and hallucinegenic effects. It became extremely popular with students at [[The Basentia Omnia|The Basentia]], due to its potency with [[Acronist|Acronists]]. 
+
 !hidden
 
 Lotus is a drug developed by [[Vera Lauten]] and [[Enzo Quint]], although their original formula did not take the decorative form of a flower and had a different name, and was used for scientific research. 
