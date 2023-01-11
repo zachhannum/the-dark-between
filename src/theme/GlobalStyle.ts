@@ -49,7 +49,8 @@ const GlobalStyle = createGlobalStyle`
   }
 
   h1 {
-    font-family: 'IM Fell Double Pica SC', serif;
+    /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif; */
     letter-spacing: .1rem;
     font-weight: 500;
   }
@@ -60,7 +61,7 @@ const GlobalStyle = createGlobalStyle`
 
   .caption {
     font-size: 0.9em;
-    color: ${(p) => p.theme.fg[3]};
+    color: ${(p) => p.theme.fg[2]};
   }
 `;
 

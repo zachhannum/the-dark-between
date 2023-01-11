@@ -67,7 +67,7 @@ const SearchResultTitle = styled.div`
 
 const SearchResultDescription = styled.div`
   font-size: 0.9em;
-  color: ${(p) => p.theme.fg[3]};
+  color: ${(p) => p.theme.fg[2]};
 `;
 
 type StyledBackgroundBlurProps = {
@@ -124,7 +124,7 @@ const SearchIconContainer = styled.div`
   font-size: 0.7em;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  color: ${(p) => p.theme.fg[3]};
+  color: ${(p) => p.theme.fg[2]};
   &:hover {
     background-color: ${(p) => p.theme.bg[1]};
     border-color: ${(p) => p.theme.fg[1]};
@@ -136,7 +136,7 @@ const SearchIconContainer = styled.div`
     gap: 10px;
     border-radius: 12px;
     padding: 4px;
-    border: 1px solid ${(p) => p.theme.fg[3]};
+    border: 1px solid ${(p) => p.theme.fg[2]};
   }
 `;
 
@@ -150,7 +150,7 @@ const SearchKeybinding = styled.span`
   padding: 3px;
   border-radius: 7px;
   /* font-size: 0.6em; */
-  border: 1px solid ${(p) => p.theme.fg[3]};
+  border: 1px solid ${(p) => p.theme.fg[2]};
   line-height: 100%;
 
   @media (max-width: 600px) {
