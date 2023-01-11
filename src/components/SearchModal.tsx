@@ -29,8 +29,9 @@ const StyledSearchModal = styled.div<StyledSearchModalProps>`
   align-content: center;
   visibility: ${(p) => (p.show ? "visible" : "hidden")};
   border-radius: 10px;
-  box-shadow: 0 0 40px 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
   background-color: ${(p) => p.theme.bg[0]};
+  border: 1px solid ${(p) => p.theme.bg[1]};
 `;
 
 const SearchResults = styled.div`
@@ -258,7 +259,7 @@ export const SearchModal = () => {
                 >
                   <SearchResultTitle>{result.title}</SearchResultTitle>
                   <SearchResultDescription>
-                    {result.excerpt.split("!hidden")[0]}
+                    {result.excerpt}
                   </SearchResultDescription>
                 </Link>
               </SearchResult>

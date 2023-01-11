@@ -1,5 +1,6 @@
 import type { GatsbyConfig } from "gatsby";
 import path from "path";
+import { fixExcerpt } from "./src/utils/utils";
 
 const mapPagesUrls = {
   index: "/",
@@ -51,7 +52,9 @@ const config: GatsbyConfig = {
                 }
                 return `
                 <div ${classes}>
-                  <img src="${result.src}" srcSet="${result.srcSet}" ${width} ${classes}/>
+                  <img src="${result.src}" srcSet="${
+                  result.srcSet
+                }" ${width} ${classes}/>
                   <div class="caption">${result.alt.split("|")[0]}</div>
                 </div>
                 `;
@@ -145,7 +148,7 @@ const config: GatsbyConfig = {
             return {
               id: node.id,
               path: node.fileAbsolutePath,
-              excerpt: node.excerpt,
+              excerpt: fixExcerpt(node.excerpt),
               title: node.frontmatter.title,
               body: node.rawBody.split("!hidden")[0],
             };

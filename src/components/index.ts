@@ -6,3 +6,4 @@ export { default as Map } from "./Map";
 export { default as Center } from "./Center";
 export { default as Audio } from "./Audio";
 export { SearchModal } from "./SearchModal";
+export { Link } from "./Link";

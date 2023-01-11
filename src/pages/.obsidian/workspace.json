@@ -6,27 +6,15 @@
       {
         "id": "18578e8e7438bb9a",
         "type": "tabs",
-        "dimension": 49.34679334916864,
+        "dimension": 99.99999999999999,
         "children": [
-          {
-            "id": "cb8e1697c8876a1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arlo Livingston.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "eba09614a77c3742",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arlo Livingston.md",
+                "file": "Roz Daras.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,32 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eileen Quint.md",
+                "file": "The Basentia Omnia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "6cd4653385f64cb4",
-        "type": "tabs",
-        "dimension": 50.65320665083135,
-        "children": [
-          {
-            "id": "0884528d3d845e35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Dark Between - Campaign Sessions/Planning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "!hidden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,13 +71,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 457.5,
-    "collapsed": true
+    "width": 457.5
   },
   "right": {
     "id": "7a2b453afa427c2b",
@@ -123,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arlo Livingston.md",
+                "file": "The Basentia Omnia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,17 +118,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cb8e1697c8876a1f",
+  "active": "338fb562f63f451c",
   "lastOpenFiles": [
-    "Lucian Cullpepper.md",
+    "Aljiuedum.md",
+    "The Basentia Omnia.md",
+    "Eileen Quint.md",
+    "Roz Daras.md",
     "Arlo Livingston.md",
     "The Dark Between - Campaign Sessions/Planning.md",
-    "Sulazar Stillwater.md",
-    "Eileen Quint.md",
-    "brainstorming.md",
+    "Vera Lauten.md",
+    "Magic on Naos.md",
     "Lotus.md",
-    "Meripol.md",
-    "cortex/Ego's Fire.md",
-    "Enzo Quint.md"
+    "Henry Wulverstone.md"
   ]
 }

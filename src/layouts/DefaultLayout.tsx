@@ -3,7 +3,7 @@ import React, { useEffect } from "react";
 import styled from "styled-components";
 import { MDXProvider } from "@mdx-js/react";
 import { Header } from "../components";
-import { Image, Map, Center, Audio } from "../components";
+import { Image, Map, Center, Audio, Link } from "../components";
 
 type DefaultLayoutProps = {
   pageContext: any;
@@ -30,7 +30,7 @@ const Title = styled.div`
   padding-bottom: 10px;
 `;
 
-const shortcodes = { Image, Map, Center, Audio };
+const shortcodes = { Image, Map, Center, Audio, a: Link };
 
 const DefaultLayout = ({ pageContext, children }: DefaultLayoutProps) => {
   useEffect(() => {
