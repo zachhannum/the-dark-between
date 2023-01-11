@@ -21,7 +21,7 @@ const StyledLinkTooltip = styled.div<StyledLinkTooltipProps>`
   opacity: ${(p) => (p.show ? 1 : 0)};
   visibility: ${(p) => (p.visible ? "visible" : "hidden")};
   width: 300px;
-  transition: opacity 0.2s ease-in-out;
+  transition: opacity 0.1s ease-in-out;
   z-index: 10;
 `;
 
@@ -73,23 +73,23 @@ export const Link = ({ href, title, children }: LinkProps) => {
   }, [data]);
   useEffect(() => {
     const tooltip = tooltipRef.current;
-    if (tooltip) {
+    const link = linkRef.current;
+    const windowY = window.scrollY;
+    if (tooltip && link) {
       //position tooltip above the link using the tooltip's height and link position
-      const tooltipHeight = tooltip.getBoundingClientRect().height;
-      tooltip.style.top = `${0 - tooltipHeight - 5}px`;
-      tooltip.style.left = `0px`;
+      const tooltipRect = tooltip.getBoundingClientRect();
+      const linkRect = link.getBoundingClientRect();
+      tooltip.style.top = `${
+        windowY + linkRect.top - tooltipRect.height - 5
+      }px`;
+      tooltip.style.left = `${linkRect.left}px`;
       //position tooltip below the link if it would be off the screen
-      const link = linkRef.current;
-      if (link) {
-        const linkRect = link.getBoundingClientRect();
-        const tooltipRect = tooltip.getBoundingClientRect();
-        if (linkRect.top - tooltipRect.height < 0) {
-          tooltip.style.top = `${linkRect.height + 5}px`;
-        }
-        //position tooltip to the left of the link if it would be off the screen
-        if (tooltipRect.right > window.innerWidth) {
-          tooltip.style.left = `${linkRect.width - tooltipRect.width}px`;
-        }
+      if (linkRect.top - tooltipRect.height < 0) {
+        tooltip.style.top = `${windowY + linkRect.bottom + 5}px`;
+      }
+      //position tooltip to the left of the link if it would be off the screen
+      if (linkRect.left + tooltipRect.width > window.innerWidth) {
+        tooltip.style.left = `${linkRect.right - tooltipRect.width}px`;
       }
     }
   }, [tooltipText, tooltipTitle, showTooltip]);
@@ -106,7 +106,7 @@ export const Link = ({ href, title, children }: LinkProps) => {
         setShowTooltip(false);
         setTimeout(() => {
           setTooltipVisible(false);
-        }, 200);
+        }, 100);
       };
       link.addEventListener("mouseenter", handleMouseEnter);
       link.addEventListener("mouseleave", handleMouseLeave);
@@ -117,19 +117,33 @@ export const Link = ({ href, title, children }: LinkProps) => {
     }
   }, []);
 
+  // useEffect(() => {
+  //   // Hide tooltip on scroll
+  //   const handleScroll = () => {
+  //     setShowTooltip(false);
+  //     setTimeout(() => {
+  //       setTooltipVisible(false);
+  //     }, 200);
+  //   };
+  //   window.addEventListener("scroll", handleScroll);
+  //   return () => {
+  //     window.removeEventListener("scroll", handleScroll);
+  //   };
+  // }, []);
+
   return (
-    <StyledLink href={href} title={title} ref={linkRef}>
-      <>
+    <>
+      <StyledLink href={href} title={title} ref={linkRef}>
         {children}
-        <StyledLinkTooltip
-          ref={tooltipRef}
-          show={showTooltip && tooltipText != ""}
-          visible={tooltipVisible && tooltipText != ""}
-        >
-          <StyledTooltipTitle>{tooltipTitle}</StyledTooltipTitle>
-          <StyledTooltipText>{tooltipText}</StyledTooltipText>
-        </StyledLinkTooltip>
-      </>
-    </StyledLink>
+      </StyledLink>
+      <StyledLinkTooltip
+        ref={tooltipRef}
+        show={showTooltip && tooltipText != ""}
+        visible={tooltipVisible && tooltipText != ""}
+      >
+        <StyledTooltipTitle>{tooltipTitle}</StyledTooltipTitle>
+        <StyledTooltipText>{tooltipText}</StyledTooltipText>
+      </StyledLinkTooltip>
+    </>
   );
 };
