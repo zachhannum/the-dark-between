@@ -1,7 +1,7 @@
 import { DefaultTheme } from "styled-components";
 
 const darkTheme: DefaultTheme = {
-  bg: ["#11080d", "#222124", "#39383c"],
+  bg: ["#1b1a1c", "#222124", "#39383c"],
   fg: ["#ededee", "#dbdadd", "#c4c3c6"],
   red: {
     fg: "#fb4934",
@@ -34,7 +34,7 @@ const darkTheme: DefaultTheme = {
 };
 
 const lightTheme: DefaultTheme = {
-  fg: ["#11080d", "#222124", "#39383c"],
+  fg: ["#1b1a1c", "#222124", "#39383c"],
   bg: ["#ededee", "#dbdadd", "#c4c3c6"],
   red: {
     fg: "#cc242d",

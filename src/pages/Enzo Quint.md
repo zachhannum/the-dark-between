@@ -1,4 +1,5 @@
 ---
+aliases: Enzo
 title: Enzo Quint
 ---
 

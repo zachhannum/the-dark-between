@@ -1,4 +1,5 @@
 ---
+aliases: Corrin
 title: Corrin Fane
 ---
 

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ab3bc397e0aae43b",
+        "id": "62e3911e8d431873",
         "type": "tabs",
         "children": [
           {
-            "id": "26b26b108914588f",
+            "id": "d5d9fcda73852d04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session Summaries.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "The Saetorim",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Summaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +104,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "26b26b108914588f",
+  "active": "d5d9fcda73852d04",
   "lastOpenFiles": [
-    "Arlo Livingston.md",
-    "The Exchange - A Short Story Exploration.md",
-    "The Saetorim Institute.md",
-    "Roz Daras.md",
-    "Meripol.md",
-    "The Basentia Omnia.md",
-    "Aljiuedum.md",
-    "Eileen Quint.md",
+    "Spirit Sanctum.md",
+    "Session Summaries.md",
+    "Vera Lauten.md",
     "The Dark Between - Campaign Sessions/Planning.md",
-    "Vera Lauten.md"
+    "images/Morne_A_man_sits_on_a_stool_back_turned_painting_on_an_easel._S_fa796363-32e9-4381-badd-6f13d669713b copy.png",
+    "Henry Wulverstone.md",
+    "The Vigil.md",
+    "The First Tinwheel.md",
+    "images/Morne_Young_man_with_white_hair_laying_on_the_ground_drunk_wear_0a9487dc-3b99-4a5e-b0c1-377c0348d4bb.png",
+    "images/Morne_A_stout_man_that_looks_like_Danny_Devito_0e7dc2dd-2c82-46d7-adc1-ff31752d486f.png"
   ]
 }

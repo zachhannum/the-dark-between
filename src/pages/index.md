@@ -16,6 +16,63 @@ Manifesting magical effects with Luminous Magic involves interfacing directly wi
 
 [[Acronist|Acronists]] are what most magic users on Naos are known as. Since Luminous Magic is based on *belief*, not just that of the individual, but to a greater power extent the collective belief of all of Naos, *religion* has played a significant role in how Luminous Magic, and more specifically, Acronists form successful convictions without incurring [[Backlash]] likely to injure themselves or, more likely, tear a hole in reality. In areas of the world such as [[Aljieudum]], where [[The Argent]] is the most prevalent religion, Acronists garner much of their abilities from the [[Primal Spirits]], gaining specific powers through [[Primal Aspects]] tied to each Spirit.
 
+## Human Variants
+
+While humans make up the majority of the population on [[Naos]], there are a number of once-humans and human hybrids living alongside their ascendants.
+
+- [[Deep Dwellers]]
+- [[Shifter|Shifters]]
+- [[Elemental Scion|Elemental Scions]]
+
+## The Dark Between Campaign
+- [[Session Summaries]]
+
+## Characters
+
+### Main
+- [[Lucian Cullpepper]]
+- [[Sulazar Stillwater]]
+- [[Eileen Quint]]
+- [[Arlo Livingston]]
+
+### Others
+- [[Enzo Quint]]
+- [[Jules Kaplan]]
+- [[Faro Desjardins]]
+- [[Rysha Tan Mei]]
+- [[Shani Mirza]]
+- [[Rikkart Lauten]]
+- [[Kalia Samira]]
+- [[Adam La Cour]]
+- [[Corrin Fane]]
+
+## Places
+
+### Nations
+- [[Aljieudum]]
+- [[Tharsis]]
+
+### Cities
+- [[Meripol]]
+- [[Mehnateruna]]
+- [[Brava]]
+
+## Religion
+
+- [[The Ascension]]
+- [[The Argent]]
+  - [[Protoxy]]
+  - [[Missary]]
+- [[Aadimaon]]
+
+## Organizations
+
+- [[The Basentia Omnia]]
+- [[Saetorim Institute]]
+- [[The Vigil]]
+- [[The Church of Aphothis]]
+- [[The High Authority]]
+
 ### Magic Index
 
 - [[Acronist]]
@@ -38,58 +95,3 @@ Manifesting magical effects with Luminous Magic involves interfacing directly wi
 - [[Fixed Truth]]
 - [[Elemental Scion]]
 - [[Dreaming]]
-
-## Human Variants
-
-While humans make up the majority of the population on [[Naos]], there are a number of once-humans and human hybrids living alongside their ascendants.
-
-- [[Deep Dwellers]]
-- [[Shifter|Shifters]]
-- [[Elemental Scion|Elemental Scions]]
-
-## Places
-
-- [[Naos]]
-  - [[Edelun]]
-    - [[Aljieudum]]
-      - [[Meripol]]
-    - [[Esharn]]
-    - [[Volkharn]]
-  - [[Selar]]
-    - [[Tharsis]]
-      - [[Brava]]
-
-## Religion
-
-- [[The Ascension]]
-- [[The Argent]]
-  - [[Protoxy]]
-  - [[Missary]]
-- [[Aadimaon]]
-
-## Organizations
-
-- [[The Basentia Omnia]]
-- [[The Saetorim Institute]]
-- [[The Vigil]]
-- [[The Church of Aphothis]]
-- [[The High Authority]]
-
-## Characters
-
-### Main
-- [[Lucian Cullpepper]]
-- [[Sulazar Stillwater]]
-- [[Eileen Quint]]
-- [[Arlo Livingston]]
-
-### Others
-- [[Enzo Quint]]
-- [[Jules Kaplan]]
-- [[Faro Desjardins]]
-- [[Rysha Tan Mei]]
-- [[Shani Mirza]]
-- [[Rikkart Lauten]]
-- [[Kalia Samira]]
-- [[Adam La Cour]]
-- [[Corrin Fane]]

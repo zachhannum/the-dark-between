@@ -62,6 +62,9 @@ const GlobalStyle = createGlobalStyle`
   .caption {
     font-size: 0.9em;
     color: ${(p) => p.theme.fg[2]};
+    width: 80%;
+    margin: auto;
+    text-align: center;
   }
 `;
 

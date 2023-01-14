@@ -1,4 +1,5 @@
 ---
+aliases: Henry
 title: Henry Wulverstone
 ---
 

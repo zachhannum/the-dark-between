@@ -1,4 +1,5 @@
 ---
+aliases: Luci, Lucian
 title: Lucian Cullpepper
 ---
 

@@ -1,4 +1,5 @@
 ---
+aliases: Arlo
 title: Arlo Livingston
 ---
 
