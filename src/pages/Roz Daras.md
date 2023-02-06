@@ -12,4 +12,4 @@ Daras, with two other criminals, held members and guests of the Central Bank of 
 
 In the heist, Daras carried a weapon, a gun powered by his own [[Primal Aspects#Energy|Energy]].
 
-He was eventually thwarted by [[Lucian Cullpepper]], [[Eileen Quint]], and [[Sulazar Stillwater]], bashed over the head by a piece of rebar by Sulazar Stillwater. After, Daras was taken into custody by [[The Vigil]].
+He was eventually thwarted by [[Lucian Cullpepper]], [[Eileen Quint]], and [[Sulazar Stillwater]], bashed over the head by a piece of rebar by Sulazar Stillwater. After, Daras was taken into custody by the [[Vigil]].

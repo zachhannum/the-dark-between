@@ -1,0 +1,1 @@
+Beron is a [[Acronist#Farseeker]] who works the [[Grav-rail]] in [[Meripol]] for the [[Prisma Travel Corporation]].

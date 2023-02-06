@@ -19,4 +19,4 @@ By bringing Threads into the Physical Realm gives them more potency when they ar
 In addition to the above effects, Lotus also gives the user an out-of-body experience, typically warping time around them and experiencing another plane of existence entirely.
 
 ## As a Street Drug
-Vera turned the formula over to [[The Sonxai]] for larger scale production for her final plan, and the organization decided to release it onto the street without her permission. Sonxai converted the formula to a more appealing ingestible white flower.
+Vera turned the formula over to the [[Sonxai]] for larger scale production for her final plan, and the organization decided to release it onto the street without her permission. The [[Sonxai]] converted the formula to a more appealing ingestible white flower.

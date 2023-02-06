@@ -1,5 +1,9 @@
 {
   "cssTheme": "Atom",
   "accentColor": "",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "base"
+  ]
 }

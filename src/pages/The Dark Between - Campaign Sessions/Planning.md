@@ -6,89 +6,6 @@ hide: true
 
 !hidden
 
-## Diagram
-```mermaid
-flowchart TB
-
-Missing(Other Missing Persons <br> Victims of experiments)
-ScionOfSoul(Valent Challis <br> Scion of the Primal Soul <br> Neice of Estelle <br> Taken by Sonxai for Vera)
-Inst(Saetorim Institute <br> Corrin Fane)
-Ari(Ari Vochard <br> Eileen Quint)
-Lies(Ari Lied <br> He helped with Bathyslab <br> He has the third tape)
-Protoxy(Emere Rengaurd - Protoxy)
-Vytas(Vytas Quint <br> Drunk)
-
-Sulazar(Sulazar Contacts)
-Aurus(Aurus <br> Company that contracts work <br> for the bathysward and Msanti)
-
-
-Msanti(The Msanti <br>The Bathysward)
-BasentiaBathyslab(Basentia Research Space <br> in the Bathysward)
-Sonxai(Sonxai <br> Msanti Criminal Organization)
-Bathyslab(Secret Lab in <br> the Bathysward <br> Filled with Umbrant <br> Detached, near the bottom of the ocean)
-
-House(Enzo's House)
-Bank(Central Bank of Meripol)
-Robbery(Bank Robbery)
-Lockbox(Hidden Lockbox)
-Statements(Bank Statements with <br> Rikkart Lauten's Name)
-LautenFake(Shifter hired to <br> pose as Rikkart)
-Rikkart(The Real Rikkart)
-ThePast(Events of Rikkart's Severring)
-Vera(Vera)
-
-Estelle(Estelle)
-Vigil(The Vigil Investigation)
-1(The First Tape)
-2(The Second Tape)
-3(The Third Tape)
-4(The Fourth Tape)
-5(The Fifth Tape)
-6(The Sixth Tape)
-Gris(Enzo's Research in Gris)
-
-Aphothis(Aphothis)
-Destruction(Destruction of the Basentia)
-
-6 --> Ari
-Inst --> 6
-Ari --> Bank
-Ari --> Protoxy
-Ari --> BasentiaBathyslab
-Protoxy --> House
-Cyril --> Vytas
-Ari --> Vytas
-Vytas --> Lockbox
-Bank --> Lockbox
-Bank --> Robbery
-Lockbox --> Statements
-Statements --> LautenFake
-Statements --> Sonxai
-LautenFake --> ThePast
-Sonxai --> Bathyslab
-Lockbox --> 1
-House --> Vigil
-Estelle --> Vigil
-Vigil --> Missing
-Missing --> ScionOfSoul
-ScionOfSoul --> 2
-3 --> Gris
-Gris --> Rikkart
-Missing --> Bathyslab
-Msanti --> Sonxai
-Bathyslab --> 4
-Sulazar --> Aurus
-Aurus --> Bathyslab
-4 --> Lies
-Lies --> 3
-Rikkart --> 5
-5 --> Vera
-2 --> ThePast
-
-Vera --> Aphothis
-Vera --> Destruction
-``` 
-
 ## Planning
 I’d like the campaign to start in the [[Saetorim Institute]], where the characters have been hired by [[Corrin Fane]], Director of the Institute. They are shown the last tape, #6, that [[Enzo Quint]] recorded as a part of his research into the [[The Altrement|The Dark Between]].
 
@@ -110,15 +27,15 @@ A large part of the campaign will be tracking down the remaining [[Enzo Quint#Au
 - [x] Key Scene descriptions
 - [x] Add some combat/mobs/bosses
 - [x] Script and record tape 1
-- [ ] Script and record tape 2
+- [x] Script and record tape 2
 - [ ] Script and record tape 3
 - [ ] Script and record tape 4
 - [ ] Script and record tape 5
 
 
 ## Pre-session
-- [ ] Double-check die-ratings on character sheets and make sure they are what they should be
-- [ ] Check wording on SFX to make sure they make sense
+- [x] Double-check die-ratings on character sheets and make sure they are what they should be
+- [x] Check wording on SFX to make sure they make sense
 
 ## Player Characters
 * [[Arlo Livingston]]
@@ -149,11 +66,11 @@ A large part of the campaign will be tracking down the remaining [[Enzo Quint#Au
 
 ### Emere Renguard
 [[Emere Renguard]] is a Protoxy for [[The Argent]].
-* Shows up with a knock at the door at Ari’s while the party is there investigating with [[Vytas Quint]] in tow, clearly drunk and high on [[Lotus]], a new drug formulated by [[The Sonxai]] that is said to make your [[Thread]] more “vivid” and leave you in a trance-like state.
+* Shows up with a knock at the door at Ari’s while the party is there investigating with [[Vytas Quint]] in tow, clearly drunk and high on [[Lotus]], a new drug formulated by the [[Sonxai]] that is said to make your [[Thread]] more “vivid” and leave you in a trance-like state.
 * Emere is disgusted by Vytas. He tells Ari that he found him on the steps of the [[Pal Tenach]]
 * If he sees the party there, he raises an eyebrow and questions who they are
 	* If he gets wind of what they are doing there, he will want to question them all individually
-* He tells Ari, “as a common curtesy” that [[The Vigil]] is, as they speak, on their way to Enzo’s house to begin their investigation, and that he will be keeping *very* close tabs on the investigation 
+* He tells Ari, “as a common curtesy” that the [[Vigil]] is, as they speak, on their way to Enzo’s house to begin their investigation, and that he will be keeping *very* close tabs on the investigation 
 * Once Emere leaves, Ari is clearly distraught at the Vigil getting involved, and tells the party that he hasn’t had time yet to go through Enzo’s things
 
 ## Enzo’s House
@@ -168,7 +85,7 @@ A large part of the campaign will be tracking down the remaining [[Enzo Quint#Au
 
 * She wants to talk with Arlo, first questioning what he is doing stalking around Enzo’s house, loosely accusing him of having something to do with it
 * She knows that they have found a variety of journals and books, as well as a [[Tinwheel]]
-* She will make a deal to get the tinwheel and make sure no one listens to it if Arlo gets [[Valent Childs]], her niece, back from the [[The Sonxai]]. She doesn’t know exactly where they are keeping her, but she’s confident he can figure it out.
+* She will make a deal to get the tinwheel and make sure no one listens to it if Arlo gets [[Valent Childs]], her niece, back from the [[Sonxai]]. She doesn’t know exactly where they are keeping her, but she’s confident he can figure it out.
 
 ## Central Bank of Meripol
 ### NPCs
@@ -188,7 +105,7 @@ Mercenary Thugs **6 6**
 Enzo’s lockbox contains:
 * either tape 1 or 2 (depending on which they acquire first)
 * Bank statements indicating that [[Rikkart Lauten]] was giving him money
-* Statements of purchase to a corporation called Crimson. With a good roll, Arlo might recognize it as an alias that [[The Sonxai]] uses–otherwise his criminal contacts would know.
+* Statements of purchase to a corporation called Crimson. With a good roll, Arlo might recognize it as an alias that the [[Sonxai]] uses–otherwise his criminal contacts would know.
 * Statements of purchase to the [[Prisma Travel Corporation]] for transport of goods from [[Gris]]
 
 
@@ -219,7 +136,7 @@ Supernatural Strength 10
 ### Arlo’s Meeting with Jax
 
 - Gives him a tinwheel that has a copy of the second tinwheel on it
-- Says that the timetable has moved up for his assignment, needs him to move on [[The Sonxai]] warehouse today, because they’ve gotten word that something spooked them and the warehouse is being shutdown.
+- Says that the timetable has moved up for his assignment, needs him to move on the [[Sonxai]] warehouse today, because they’ve gotten word that something spooked them and the warehouse is being shutdown.
 
 ### Meeting at the [[Saetorim Institute]]
 
@@ -295,12 +212,19 @@ Amorphous Body 8
 Dark Tendrils 8
 <hr/>
 <em>Spike Blast</em>: Add 6 for every target past the first, and keep an extra effect dice for every target past the first, then shut down Spikes.
+<br/>
+<em>Environmental Destruction 8</em>: Every time the Slug monster attacks, roll against the environment for destruction. 
+</div>
+
+<div style="background-color:rgba(0,0,0,0.25);font-variant:small-caps; padding:10px;border-radius:5px">
+Grav-train 10 10 10
 </div>
 
 ## Session 6
 - Isn't it obvious? Rikkart claims, in his journal, that he couldn't see. How does that sound familiar? The entity that Sully discovered in the wrecked bathyscaphe.
 - [[Killgard]], one of Rysha's personal wards, tracks the group down at the Saetorim Institute, indicating that the Speaker wishes to see them and discuss what they know. Corrin is untrusting, but will ultimate agree with the groups assessment.
-- When the group returns to the [[Bathysward]], the [[Vigil]] are waiting for them, notified by [[Henry Wulverstone]]. They have been keeping guard and looking out for Sully to return, and will confront the group at his place of business
+- When the group returns to the [[Saetorim Institute]], three members of the [[Vigil]], including [[Estelle Sartere]], are waiting for them.
+	- Estelle wants them to stop their investigation, and depending on how the conversation goes, will let them know that people other than Enzo have also been going missing, all over the city. The players may be able to tell that she is hiding something. Her niece, [[Valent Childs]], has also gone missing, whom both [[Corrin Fane|Corrin]] and [[Sulazar Stillwater|Sully]] know as a scion of the Primal Soul
 
 <div style="background-color:rgba(0,0,0,0.25);font-variant:small-caps; padding:10px;border-radius:5px">
 The Vigil (Mob) 8 8 8
@@ -314,3 +238,69 @@ Intimidation 8
 
 - The Vigil's main motivation here is not letting citizens run rogue operations on things that should be handled in an official capacity, however they do not really have knowledge of what is really going on, only that there is some wreckage offshore that is dangerous
 - Remind the players that they can "defeat" the mob either socially *or* with combat, but all mob dice must be knocked out in order to dismiss them.
+
+
+### Session 6 Notes
+
+Slug monster combat
+Arlo - 15
+Sully - 13
+Slug Monster - 13 d8 On Fire
+Luci - 11
+Eileen - 6
+
+[[Beron]]
+
+## Session 7
+
+### The Bathyslab
+
+> As you approach the exact coordinates marked on the map, the floodlights on your bathysphere illuminate an opening in the rocky wall of the ocean floor, partially obscured by seaweed and other marine growth. The space looks just large enough to navigate your ship through.
+
+> The passageway takes you deeper, your lights reflecting off of the cave walls. Eventually, the passage ascends, and after a short while your ship surfaces into an enormous cavern filled with air. There is little light down here save for your bathysphere's floodlights.
+
+
+### Caverns
+
+The players should be required to make rolls to navigate the caverns, if they roll poorly, introduce more obstacles.
+
+The cave system is a 3d8 environmental hazard. Treat it as boss dice. Every "turn", introduce new environmental factors that must be dealt with.
+
+1.  Section of the cave that is filled with sharp stalactites and stalagmites. The players must navigate through this section carefully, avoiding being impaled by the sharp rocks.
+2.  Section of the cave that is filled with powerful currents. The players must navigate through this section, avoiding being swept away by the currents and pushed into the sharp rocks. 
+3.  Section of the cave that is filled with thick fog that makes visibility almost impossible. The players must navigate through this section carefully.
+4.  Flooded tunnels: The players come across a section of the cave system that has been flooded. The water is deep and the visibility is poor. The players must navigate through the flooded tunnels, avoiding obstacles and creatures that live in the water.
+5.  Collapsing cave: The players come across a section of the cave system that is unstable and prone to collapse. The players must navigate through this section quickly, avoiding cave-ins and falling rocks.
+6. Narrow Passages: The players come across a section of the cave system that has narrow passages, some of them are so narrow that only one person can go through at a time. The players must navigate through these passages carefully, avoiding getting stuck or trapped.
+7. Dead-end: Remove any complications on the caves, or add a d8 if there are no complications.
+8. Void-corrupted water spirits.
+
+### The Bathyslab
+
+> As you make your way through the dark, flooded halls of the underwater laboratory, an eerie feeling of unease creeps over you. The once gleaming white walls are now cracked and covered in a thick layer of dripping algae and seaweed. The flickering lights cast deep shadows that seem to move of their own accord.
+> 
+> The silence is deafening, with the only sound being the dull thud of your footsteps and the occasional creaking of the rusted metal walls against the weight of an entire ocean. But then, you hear it: a faint whispering that seems to come from everywhere and nowhere at once. You can feel your minds being pulled in different directions as the whispers grow louder, urging you forward.
+
+
+### As they go deeper
+
+> As you push deeper into the lab, you find evidence of a catastrophic event. Equipment and lab instruments lie scattered about, some of them shattered and others still sparking occasionally with energy. The once sterile floors are now slick, rust, and what appears to be dried blood.
+>
+> The air is thick with the scent of decay and it's clear that something unspeakable has happened here. You can't shake the feeling that they are being watched, as if unseen eyes are following your every move. The whispers grow louder, urging you onward.
+
+
+### Some more descriptions to use
+
+> As you enter the laboratory, you are greeted by a dimly-lit corridor. The walls are made of cold, wet metal and the sound of water can be heard in the background. The water seems to be seeping through cracks in the walls, and the players can feel a chill in the air.
+
+> As you move deeper into the laboratory, you come across a room filled with strange machinery and equipment. The room is dimly lit and the machinery hums with an eerie energy. You can see sparks of electricity arcing from one machine to another, and the smell of ozone is strong in the air.
+
+> You come across a room that seems to have been abandoned in a hurry. The room is in disarray, with papers and equipment scattered about. The players can see dark stains on the floor and walls, and the smell of blood is strong.
+
+> You come across a room filled with tanks and tanks of water, which seem to be housing strange creatures, some of them seem to be mutated. The water is murky and the creatures inside are barely visible, but you can hear strange noises coming from the tanks.
+
+> You come across a room that is filled with a strange, dark energy. The air is thick and heavy, and the players can feel a sense of unease. Shadows seem to be moving on the walls, and the players can hear strange whispers coming from the darkness.
+
+> You come across a room that seems to have been used as a laboratory, there are several tables covered in strange instruments and chemicals. The room is dimly lit and the instruments are covered in a thick layer of dust, it seems that the room has been abandoned for a long time.
+
+### 

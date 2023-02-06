@@ -1,4 +1,5 @@
 ---
+aliases: Rikkart
 title: Rikkart Lauten
 ---
 

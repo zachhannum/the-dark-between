@@ -68,8 +68,8 @@ While humans make up the majority of the population on [[Naos]], there are a num
 ## Organizations
 
 - [[The Basentia Omnia]]
-- [[Saetorim Institute]]
-- [[The Vigil]]
+- The [[Saetorim Institute]]
+- The [[Vigil]]
 - [[The Church of Aphothis]]
 - [[The High Authority]]
 

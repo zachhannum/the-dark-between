@@ -1,0 +1,3 @@
+.markdown-embed:not(.hover-popover .markdown-embed), .file-embed {
+    margin-inline-start: 0px !important;
+}

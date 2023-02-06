@@ -34,8 +34,8 @@ His research into the Altrement, and more specifically the discoveries he made i
 Quint created six audio tapes, using [[Memory]], related to his research into the Altrement. When he realized that Vera wanted to weaponize it, he hid the tapes in various locations.
 
 Hiding Places:
-1. A lockbox at the [[Central Bank of Meripol]], along with a number of papers incriminating [[Rikkart Lauten]] and [[The Sonxai]]
-2. Beneath the floorboards of his house, discovered by [[The Vigil]].
+1. A lockbox at the [[Central Bank of Meripol]], along with a number of papers incriminating [[Rikkart Lauten]] and the [[Sonxai]]
+2. Beneath the floorboards of his house, discovered by the [[Vigil]].
 3. In the [[Bathyslab]]
 4. With [[Ari Vochard]]
 5. With the Real [[Rikkart Lauten]] in [[Gris]].
@@ -43,7 +43,7 @@ Hiding Places:
 	- Given to the [[Saetorim Institute]]
 
 #### The First Tape
-In the [[The First Tinwheel|first tape]] Quint records regarding his rearch into the Dark, he discusses some interesting research he found regarding ancient religions in Aljieudum. He mentions one by name, [[The Church of Aphothis]], and how their beliefs did not seem to align with the proto-Argent system that was developing around the same time. They seem to have been involved with some sort of human sacrifices, with a particular focus on severring the thread of the victims. In this tape, he sounds particularly disgusted by it, but fascinated.
+In the [[The First Tinwheel|first tape]] Quint records regarding his rearch into the Dark, he discusses some interesting research he found regarding ancient religions in Aljieudum. He mentions one by name, [[The Church of Aphothis]], and how their beliefs did not seem to align with the proto-Argent system that was developing around the same time. They seem to have been involved with some sort of human sacrifices, with a particular focus on severing the thread of the victims. In this tape, he sounds particularly disgusted by it, but fascinated.
 
 #### The Second Tape
 The [[The Second Tinwheel|second tinwheel]] Quint records takes place in the ruins of [[Mehnateruna]], the ancient city in which [[The Church of Aphothis]] resided. Enzo states that it was very difficult to obtain any information on the city or its whereabouts. He, along with a small team, have excavated the remains of the Spirit Sanctum in which the Church enacted its rituals. He mentions in the tape that this place is where [[Rikkart Lauten]] and a number of other students were led to, where Rikkart’s thread was severed in an accidental ritual. Enzo states that the Lauten family has refused to speak with him on the matter. He also suspects that the Family is responsible for the lack of information about the city.
@@ -52,7 +52,7 @@ The [[The Second Tinwheel|second tinwheel]] Quint records takes place in the rui
 Takes place in the Bathyslab during one of their Thread experiments. They sever a man’s Thread and he sees the Dark Between, then becomes an Umbral. Enzo mentions Ari by name in the tape, asking him to adjust some valves. Ari hisses at him not to mention him by name. Their experiment fails and the Bathyslab is lost.
 
 #### The Third Tape
-Takes place in Gris. Enzo has realized that he was still missing a key component to his experiments, and has travelled to Gris in order to figure it out. 
+Takes place after Enzo returned from Gris. Enzo has realized that he was still missing a key component to his experiments, and had travelled to Gris in order to figure it out. There, he discovered [[The Lightless Eye]], a sect that believes in [[The Altrement]]. He learns techniques from them, and buys some of their technology from them. He also mentions Rikkart in this tape, since he sees him in Gris, but its worded in a way that can be misconstrued as working with him as they already suspect.
 
 #### The Fifth Tape
 Vera is revealed. Enzo argues with her, telling her he won’t help with her plans. If he knew what he was really doing
