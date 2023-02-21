@@ -1,17 +1,12 @@
 ---
 title: The Altrement
-hide: true
 aliases: The Dark Between, Chaos
 ---
+**The Altrement**, or the **Dark Between**, is a place outside of reality. Not much is known at this point about it, only that [[Enzo Quint]] was studying the effects of [[Thread]] severance, and eventually discovered that the energy released from severing threads could be harnessed to create [[Entanglement|Entanglements]], or gateways, into the Dark.
 
-# The Altrement
-#naos #magic
+[[Etnu]] is an entity that resides, or has resided there. The [[Lightless Eye]] is a group in [[Gris]] that worships the Dark Between. [[Rikkart Lauten]] being one of their members.
 
-*I've seen the dark between worlds! I've seen the lightless eye that does not watch but sees all! Out in the dark, in the space between everything we know, is madness.*
-
-<div style="text-align: right">—Stijn Stenferink, Tenvok Asylum, four hours before death</div>
-
-[[The Lightless Eye]]
+!hidden
 
 The Dark Between, or the Altrement, represents the true chaos of the world. It's the infinite meaninglessness of the universe. So much of our time is spent up just trying to understand it, trying and catalog and write our own rules for how it should work. 
 

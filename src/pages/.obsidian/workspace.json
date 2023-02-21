@@ -13,26 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beron.md",
+                "file": "Etnu.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fff072864b9fdd3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Summaries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abd5bbc2412dfa74",
+            "id": "6d2a60e41371e7ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acab687cbdc273c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Dwellers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 252
   },
   "right": {
     "id": "7a2b453afa427c2b",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Summaries.md",
+                "file": "Etnu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -128,17 +128,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fff072864b9fdd3b",
+  "active": "9253a15213322480",
   "lastOpenFiles": [
+    "Jurrin Tuls.md",
     "The Dark Between - Campaign Sessions/Planning.md",
-    "Session Summaries.md",
-    "Sonxai.md",
-    "Lotus.md",
+    "Etnu.md",
+    "Altrement.md",
+    "Lightless Eye.md",
+    "Deep Dwellers.md",
+    "Fourth Tinwheel.md",
+    "The Dark Between.md",
     "Enzo Quint.md",
-    "Eileen Quint.md",
-    "Estelle Sartere.md",
-    "Valent Childs.md",
-    "Vigilant.md",
-    "Vigil.md"
+    "Third Tinwheel.md"
   ]
 }

@@ -1,0 +1,39 @@
+---
+title: The Third Tinwheel
+---
+
+## Audio
+
+TBD
+
+## Transcript
+
+*A tape recorder is pressed, and we hear a quiet lo-fi background static.*
+
+ENZO: This is Dr. Enzo Quint, professor and researcher at the Basentia. It has been some time since I recorded one of these. To whomever may eventually listen to this, I have much to catch you up on. This is my third such recording detailing my findings of Thread severance and how it relates to strange phenomenon that have been observed throughout the centuries, by the cult known as the Church of Aphothis, and again by a professor La Cour and his students some twenty years ago. After my trip to Mehnateruna to see the ruins of the city for myself, I realized that whatever secrets that city held had since been destroyed. Much to my disappointment. Whatever power La Cour had uncovered there was too great. The sanctum had little in the way of answers.
+
+ENZO: After returning home, I found a rather curious letter awaiting me.
+
+*Papers can be heard shuffling in the background. Enzo reads from the letter a short note.*
+
+ENZO: "Dr. Quint, I have been following your endeavors and believe that I may be able to assist you. The city of Gris may hold the answers you have been looking for. There is a group there, calling themselves the Lightless Eye. Seek what only they can see. Sincerely, a potential patron."
+
+ENZO: I was, admittedly shocked. I still had yet to reveal my research to anyone, so I had no idea how anyone could possibly know what I was doing. But, given how little Mehnateruna panned out, I had few options. So, I made my way to Gris.
+
+*Enzo's voice takes on a more excited tone.*
+
+ENZO: I have come to the conclusion that the Rikkart Lauten who lives in Meripol is actually a Shifter. In Gris, I found the Lightless Eye. Not so difficult, as I might have suspected---they do not hide what they are. The town of Gris is odd, like that. Nothing in that place seemed quite... right. Amongst their ranks, I discovered the *real* Rikkart Lauten. He was not who I thought he would be. A bit mad, perhaps, but who wouldn't be, who had seen what he had seen? The Lightless Eye and Lauten were surprisingly open about their knowledge. They have developed a way to manipulate one's thread, bringing it into the physical realm through some kind of psychoactive drug. They call it Lotus. The severing of a Thread in this state releases a special kind of... energy. With the proper equipment, this energy can be used to open a... gateway, of sorts. To what, I am still unclear. I have been unable to get clear answers from the Eye regarding this. Lauten calls it the Dark Between. He seems to have a sort of reverence for it, but also an eagerness to help me reach it for myself. I'll be honest, it frightens me somewhat.
+
+*Enzo's voice trails off for a moment before he continues, a hint of concern in his tone.*
+
+ENZO: I realize at this point, listener, you may be painting my person in a certain light. I am not a bad person. But what you must realize is that this is greater than good or evil. The power of thread severance is not something to be taken lightly, and the potential consequences of my research could be catastrophic. But I must remind myself why I started down this path in the first place. We cannot better humanity by standing still, by ignoring the unknown, by being afraid of what we do not yet understand. Progress comes with risk, and if I don't take these risks, who will?
+
+*Enzo's voice takes on a more determined tone.*
+
+ENZO: I will continue forward with my own experiments, with caution and responsibility, but I will not let fear stop me from uncovering the truth.
+
+*Enzo takes a moment before continuing, his voice becoming more resolute.*
+
+ENZO: I can no longer do this alone. I have told Ari about what I've been doing. At least, in part. He has agreed to help me, if somewhat reluctantly. I half think it's because he knows I'll get myself killed if I try and do it alone.
+
+ENZO: I know not what will come of all of this, but I hope that when they look back on history, they will see that my actions were not taken lightly, that I acted with a sense of responsibility and respect for the power that I am dealing with. This is Dr. Enzo Quint, continuing forward in the pursuit of knowledge and understanding.

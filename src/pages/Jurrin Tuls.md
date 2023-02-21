@@ -3,6 +3,6 @@ title: Jurrin Tuls
 hide: true
 ---
 
-Jurrin Tuls was a Mechanical Engineer that was hired as a Chief Engineer by [[Enzo Quint]] during their experiments in the [[Bathyslab]] severing Threads to create [[Liminal Bubble|Liminal Bubbles]] to  [[The Altrement|The Dark Between]].
+Jurrin Tuls was a Mechanical Engineer that was hired by [[Enzo Quint]] during their experiments in the [[Bathyslab]]. 
 
-He oversaw the station’s basic functions and lived on the station for months
+He willingly volunteered to take part in one of the experiments, during which Jurrin's [[Thread]] was severed, creating an [[Entanglement]], allowing for [[Etnu]] and [[Videnis]] to emerge from [[Altrement|The Dark Between]], destroying much of the lab in the process.

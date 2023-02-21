@@ -1,9 +1,11 @@
 {
-  "cssTheme": "Atom",
+  "cssTheme": "Catppuccin",
   "accentColor": "",
   "baseFontSize": 16,
-  "translucency": true,
+  "translucency": false,
   "enabledCssSnippets": [
     "base"
-  ]
+  ],
+  "textFontFamily": "Inter",
+  "nativeMenus": false
 }

@@ -77,7 +77,7 @@ Use [MTG Kaladesh](https://www.drivethrurpg.com/product/228653/Plane-Shift-Kalad
 
 Organization within the Argent that hunts down Lightless and brings them to justice.
 
-Cult, Sigils, Symbols, Dark Gods/Demons that are from the [[The Altrement]]. [[Vera Lauten]] and [[Enzo Quint]] were studying these cults to understand them and where some of their power came from. Possible tie-ins to party family members? Idols found in ancient texts. 
+Cult, Sigils, Symbols, Dark Gods/Demons that are from the [[Altrement]]. [[Vera Lauten]] and [[Enzo Quint]] were studying these cults to understand them and where some of their power came from. Possible tie-ins to party family members? Idols found in ancient texts. 
 
 Sound, a certain melody that people here from the Dark Between
 

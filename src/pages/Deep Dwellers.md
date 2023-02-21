@@ -26,3 +26,7 @@ Although many Deep Dwellers tend to prefer solitary life, their societal advance
 While the exact origins of the Deep Dwellers is unclear, it is mostly agreed upon that they were once human, long ago. Their ancestors vied for more power and tried to capture and enslave the primal spirit of water. In their failure, they were banished from land by the spirit, cursing them to live at the bottom of the sea. At first, the deep dwellers lived alone in darkness. Eventually, though, they developed into a flourshing society beneath the waves.
 
 While many Deep Dwellers are contented with their new existence, some Deep Dwellers long to return to the surface permenately, in an event known as [[The Ascension]]. They believe that if the [[Primal Spirit of Water|Primal Spirit]] was the one to banish them, it has the power to return them to human form and allow them to rejoin the surface lopers. Some Deep Dwellers go on great pilgramages across the land and sea in search of a way to appease the spirit and begin [[The Ascension]].
+
+## Msanti Names
+
+Names are usually a feeling, or alike specific sensation or thought or idea.

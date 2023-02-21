@@ -123,7 +123,7 @@ Tano Ha Sidon
 #### The City of Mehnateruna
 [[Mehnateruna]] is an ancient city located in [[Tharsis]] that was a part of the [[Kingdom of Lashana]]. Mehnateruna was a popular trade city, and was a bustling metropolis, once. They were known to have worshipped the [[Primal Spirit of Fire]] as their patron diety. 
 
-What is lesser-known, however, is that long after Lashana fell into ruin, Mehnateruna became home to a group of cultists known as the [[Church of Aphothis]]. The Church of Aphothis did not worship any of the Spirits or the Luminary. They instead worshipped The Dark, [[The Altrement]]. They modified the Spirit Sanctum in Mehnateruna to serve their god and rigged it with various traps to keep others out. Up until now, [[Tharsis]] has not done significant work excavating the ruins, though they are a common target for graverobbers and treasure hunters.
+What is lesser-known, however, is that long after Lashana fell into ruin, Mehnateruna became home to a group of cultists known as the [[Church of Aphothis]]. The Church of Aphothis did not worship any of the Spirits or the Luminary. They instead worshipped The Dark, [[Altrement]]. They modified the Spirit Sanctum in Mehnateruna to serve their god and rigged it with various traps to keep others out. Up until now, [[Tharsis]] has not done significant work excavating the ruins, though they are a common target for graverobbers and treasure hunters.
 
 ##### The Sanctum of Aphothis
 > Professor La Cour looks up from his book at last as you all approach the steps to a vast building, its walls and pillars carved with detailed patterns.

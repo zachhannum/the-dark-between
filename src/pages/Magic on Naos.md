@@ -17,4 +17,4 @@ While the Luminary is the primary source of Magic on Naos, there are two other f
 !hidden
 
 ### The Altrement
-The last source of Magic on Naos is [[The Altrement]], otherwise known as The Dark Between. This form of Magic is extraordinarily rare and often makes the anyone who comes into contact with it go insane. The most common and stable form of the Altrement comes in the form of pacts with beings from the Dark Between that have been able to manifest in physical form and stabilize the chaos coming from the Altrement.
+The last source of Magic on Naos is [[Altrement]], otherwise known as The Dark Between. This form of Magic is extraordinarily rare and often makes the anyone who comes into contact with it go insane. The most common and stable form of the Altrement comes in the form of pacts with beings from the Dark Between that have been able to manifest in physical form and stabilize the chaos coming from the Altrement.

@@ -7,7 +7,7 @@ hide: true
 !hidden
 
 ## Planning
-I’d like the campaign to start in the [[Saetorim Institute]], where the characters have been hired by [[Corrin Fane]], Director of the Institute. They are shown the last tape, #6, that [[Enzo Quint]] recorded as a part of his research into the [[The Altrement|The Dark Between]].
+I’d like the campaign to start in the [[Saetorim Institute]], where the characters have been hired by [[Corrin Fane]], Director of the Institute. They are shown the last tape, #6, that [[Enzo Quint]] recorded as a part of his research into the [[Altrement|The Dark Between]].
 
 A large part of the campaign will be tracking down the remaining [[Enzo Quint#Audio Tapes|Tapes]].
 
@@ -44,7 +44,7 @@ A large part of the campaign will be tracking down the remaining [[Enzo Quint#Au
 * [[Sulazar Stillwater]]
 * [[Lucian Cullpepper]]
 
-[[The Lightless Eye]]
+[[Lightless Eye]]
 
 ## Prologue
 > We see a man facing away from us, perched atop a wooden stool. He wears a dark coat and has coal-black shoulder-length hair that tousles slightly. A gust of wind finds its way into the secluded garden encircled with an over-abundance of trees and flowers. With a deft hand, the man sweeps a paint brush across a canvas that is obscured from view. He seems a man possessed, entranced by his work. His movements become frantic as he mixes colors on a lacquered wooden palette. His movements come to a crescendo until all at once he stops. His shoulders begin to shake. He cries, then shouts, calling out to the wind. He stands and topples the easel to the ground, shouting at it as if his despair was its fault. The painting lands face up, and we get a glimpse at what he was working on. The courtyard and all its flora, rendered in vivid detail, has been consumed by black tendrils, swirling in incomprehensible patterns. In the center, the shape of an eye with no pupil and bone-white sclera  stares directly at you. The man collapses to the ground, weeping.
@@ -123,7 +123,7 @@ Underwater Prowess 10
 
 ## Bathyscape Wreckage
 * The Bathyscape that was stolen was used by Enzo and crew to go back and forth to the secret Bathyslab to conduct their experiments. When things went wrong and [[Umbrant|Umbrants]] took over, [[Jurrin Tuls]], Chief Engineer of the station made contact with Vera and Enzo requesting evacuation, but Vera deemed it a too unnecessary risk attempt retrieval, and so the station was abandoned
-* Jurrin, along with a number of other custodial staff, managed to escape the Umbrant in one of the submersibles, but not before a malignant entity from [[The Altrement|The Dark Between]] burrowed itself inside Jurrin’s mind, slowly driving him to insanity.
+* Jurrin, along with a number of other custodial staff, managed to escape the Umbrant in one of the submersibles, but not before a malignant entity from [[Altrement|The Dark Between]] burrowed itself inside Jurrin’s mind, slowly driving him to insanity.
 * Before the ship could make it back to the Bathysward, Jurrin went insane, carving nonsense runes into his flesh, babbling about the lightless eye and killing the rest of the crew with preternatural strength. In the struggle, the ship is damaged irreparably and sinks to the bottom of the sea.
 
 Possessed Jurrin Tuls 8 
@@ -303,4 +303,76 @@ The cave system is a 3d8 environmental hazard. Treat it as boss dice. Every "tur
 
 > You come across a room that seems to have been used as a laboratory, there are several tables covered in strange instruments and chemicals. The room is dimly lit and the instruments are covered in a thick layer of dust, it seems that the room has been abandoned for a long time.
 
-### 
+
+### Flooded Section of the Lab
+
+> As you enter the flooded section of the abandoned laboratory, the darkness closes in around you like a thick, suffocating blanket. The only light comes from bioluminescent seaweed that glows a sickly green, casting eerie shadows across the murky water. You feel something brush against your leg and you realize with a jolt that you're not alone.
+> 
+> Shapes flit through the water around you, dark silhouettes that seem to be watching, waiting. You catch glimpses of long, sinuous tentacles and rows of razor-sharp teeth, but it's impossible to tell what kind of creature they belong to. The seaweed rustles and stirs as the creatures move through it, making your skin crawl.
+> 
+> The water is deep here, and you can't see the bottom. You can't help but wonder what kind of horrors lie hidden in the shadows below. You take a step forward, and a group of creatures dart away from you, leaving trails of glowing seaweed in their wake. You can feel their eyes on you, and the sense of being hunted is almost palpable.
+> 
+> As you move deeper into the flooded section, the water becomes colder and the creatures become more aggressive. You realize with growing unease that you are not just fighting for your lives, but for your sanity. The creatures seem to be in league with the darkness that surrounds you, and you can feel it clawing at the edges of your mind, threatening to overwhelm you.
+
+### Void-Controlled Lab Workers
+
+> As you cautiously make your down the dimly lit corridor, you suddenly hear a low, raspy gurgle. 
+> 
+> The dark corridor ahead of you begins to stir. Shadows twist and contort, forming into figures that step into view. These figures were once human scientists, as evidenced by their tattered white coats. But now they are twisted and corrupted by the void. Black tendrils, thick and pulsing with dark energy, grow from the back of their necks and fade into the ceiling. The tendrils seem to control their movements, as if they are puppets on strings.
+> 
+> Their eyes are black pits, void of any emotion, and their skin is a sickly shade of grey. They move with a fluid grace that is both disturbing and unnatural. The tendrils twitch and writhe as the creatures advance, their guttural cries growing louder and more menacing with each step.
+
+The characters can see that the creatures are beyond reasoning and they must defend themselves if they hope to survive. The tendrils whip through the air, striking out with deadly force, and the creatures move with a speed that belies their twisted forms. The characters are faced with a formidable opponent and must fight for their lives if they hope to escape this twisted, creepy chamber.
+
+### [[Etnu]]
+
+In the far reaches of the lab, Etnu lies in wait.
+
+> You step into a large chamber. Ahead, you hear the sound of screeching metal. A deep rumble shakes the very foundation of the lab.
+> 
+> A lithe, skeletal creature made of black metal and swirling black smoke emerges from the darkness. The smoke that surrounds it seems to be alive, twisting and writhing as if searching for prey. A raw force draws you towards it, as if pulling you close to the edge of a bottomless pit that you might fall into. It towers over you, over twenty feet tall. Its red eyes gleam in the darkness as it peers down at you.
+
+> What is this? Have you come back?
+
+> No, this is something different. What are you?
+
+> Mmm... No need for names. But... I was once called Etnu by some.
+
+> What planet is this?
+
+> I could simply distill you. No... you're language is new to me. Destroy... I could simply destroy you.
+
+> I cannot leave this place... the entanglement... I will... dissociate... unless...
+
+> Would you like to know what happened here?
+
+He sniffs out their threads (or if they manifest convictions):
+
+> Hmm... a Worldsphere...  strange I did not feel it before.... so the dominion has touched this place. Make a deal with me, mortals. Swear to me an oath such that I might be bound to this place. I can show you things far beyond your current understanding. The Edicts, Vestiges, The First Principles,  The very Axioms themselves. Do not bind yourselves to such Euclidean Prescripts.  Align with Etnu, we will help you transcend this reality.
+
+
+## Session 7 notes
+- Bioluminescent seaweed that attacks
+- Colorful anemone that has healing properties
+- Underwater pitcher plants filled with air
+- Underwater caves
+
+Msanti Vendor food stall, word of the street, [[Sate]].
+
+[[Intense Pressure]] was the name of the Msanti who worked the geothermal forge in the [[Bathyslab]].
+
+- Luci
+- Arlo
+- eileen
+- Sully
+- Water spirits
+
+### Session 8 notes
+
+- Arlo
+- Sully
+- Luci
+- Scientists 6
+- Eileen
+
+[[Videnis]]
