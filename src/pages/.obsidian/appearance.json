@@ -1,11 +1,12 @@
 {
   "cssTheme": "Catppuccin",
   "accentColor": "",
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "translucency": false,
   "enabledCssSnippets": [
     "base"
   ],
   "textFontFamily": "Inter",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian"
 }

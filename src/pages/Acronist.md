@@ -22,6 +22,14 @@ Each [[Primal Spirits|Primal Spirit]] is tied to three [[Primal Aspects]], and e
 
 ### Types of Primal Acronists
 
+The types of Primal Acronists are:
+
+- Furybearer
+- Stonesinger
+- Farseeker
+- Vastcaller
+- Boneforger
+- Soulrender
 
 #### Furybearers
 

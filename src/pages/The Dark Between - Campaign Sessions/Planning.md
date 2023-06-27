@@ -376,3 +376,82 @@ Msanti Vendor food stall, word of the street, [[Sate]].
 - Eileen
 
 [[Videnis]]
+
+[[The Dread]]
+
+## Session 9
+
+- Before they leave Corrin's [[Adashi Nan Baeha]], one of [[Rysha Tan Mei|Rysha's]] personal guard, shows up and let's the party known that he and Rysha are at their service, with whatever they may need for their investigation
+- Conversation with Ari
+- Probably talk to Corrin again, he'll tell them about Gris
+	- Warn them about certain things?
+	- Gris has always been strange, but seventy years ago people started going missing. He doesn't know a lot of details, but 
+- They'll want to sync up with [[Estelle Sartere]] probably
+
+### Gris
+- How are they going to get there? Will [[Arlo Livingston|Arlo]] reach out to his contacts/parents at the [[Prisma Travel Corporation]]?
+
+### The Church of the Lightless Eye
+
+Vera has stationed two Acronists under her family's employ at the Church of the Lightless Eye and dispatch the party if they arrive. They are also currently watching over Rikkart, as he is the only one still left in the Church at this time. The rest of the Eye has travelled to Meripol to give themselves to Vera's cause. The two Acronists are named Etienne and Amelie Kaplan. Etienne is a Furybearer, while Amelie is a Vastcaller.
+
+Etienne is a tall, broad-shouldered man with short, curly brown hair and piercing blue eyes. He carries himself with confidence and tends to be direct in his speech. He takes his responsibilities as an Acronist very seriously and can come across as somewhat stern or intimidating to those who don't know him well.
+
+Amelie, on the other hand, is petite and delicate-looking with long, wavy blonde hair and soft green eyes. She has a gentle demeanor and a kind heart, but can be quite reserved around strangers. She is deeply devoted to her studies of Luminous Magic and is always seeking to deepen her understanding of the Primal Spirits.
+
+Despite their differences in personality, Etienne and Amelie are fiercely loyal to each other and work together seamlessly in battle. They have a strong sibling bond that sometimes borders on telepathic - they can often anticipate each other's moves before they happen.
+
+Both siblings come from a long line of Acronists in the Kaplan Family and take great pride in carrying on their family's legacy.
+
+### The Halcacion Cube
+
+The [[Halcacion Cube]] is currently active and is floating in one of the basement rooms
+
+Generate names for a tavern by the docks in innsmouth
+
+The Fisherman's Friend
+
+Write a list of food dishes that is served at a marine tavern in innsmouth, served with fish that is just a little bit wrong.
+
+Stern, the mayor's son.
+
+Taln, one of the church members who knows how to read The Traveller's language.
+
+Doom Pool - 2d6 2d8 2d10 1d4
+
+Shortcuts:
+2b(b) - 1
+4c(b) - 2
+11b(b) - 3
+4c(c) - 4
+
+### The Spiral
+
+
+[[The Spiral]] is the chaos. It is the disorder and the endless breaking down of patterns into smaller and smaller pieces, the fractal nature of the universe dissolving until nothing whole is left.
+
+Come up with a Cortex RPG boss based on the Spiral. it should have Boss Dice as well as a few Trait dice and SFX
+
+Boss Name: The Spiral Lord
+
+Boss Dice: d12, d10, d8
+
+Trait Dice:
+- Chaos Manipulation (d10)
+- Reality Warping (d8)
+- Omniscience (d6)
+
+SFX:
+- Fractal Breakdown: Spend a PP to add 1d6 to your dice pool and step up the effect die by +1 when using chaos manipulation against a target.
+- Distorted Reality: Spend a PP to create a complication on an opponent equal to the effect die rolled when using reality warping.
+
+The Spiral Lord is a being of pure chaos and destruction. It has the ability to manipulate reality at will, tearing apart the fabric of space and time with ease. Its chaotic nature makes it difficult for opponents to predict its next move, as it can warp itself into various forms and dimensions.
+
+When facing off against The Spiral Lord, players will need to be strategic and coordinated in their attacks. The boss's chaos manipulation allows it to disrupt their plans easily, but players can use its unpredictable nature against it by creating distractions or baiting it into making mistakes.
+
+The Spiral Lord's reality warping is its biggest threat, as it can create illusions or distort players' senses, making them vulnerable to its attacks. Players will need to stay focused and work together to overcome this challenge.
+
+Overall, The Spiral Lord is a formidable boss that requires careful planning and teamwork to defeat.
+
+- Rikkart is trapped with the Spiral
+

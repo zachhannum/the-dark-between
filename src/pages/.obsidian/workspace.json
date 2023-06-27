@@ -4,35 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "1f015519b5ae2d6c",
+        "id": "9f7350cb4f7a5cfd",
         "type": "tabs",
         "children": [
           {
-            "id": "9253a15213322480",
+            "id": "b3633af3fc6d73cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etnu.md",
+                "file": "Shani Mirza.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d2a60e41371e7ac",
+            "id": "4eaf2e2bd72e9282",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dark Between - Campaign Sessions/Planning.md",
+                "file": "Session Summaries.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "acab687cbdc273c8",
+            "id": "8478e139ec65d86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vera Lauten - Character Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fdc81ced13a9813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonxai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9fb63fe2b6571b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,8 +66,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9cc3ea24b3fb38b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Valent Childs Comic Short.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82bc067835e858db",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "17c73f1255b55f0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -80,12 +137,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "4c2cd8a770ef2b58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 288.01103591918945
   },
   "right": {
     "id": "7a2b453afa427c2b",
@@ -101,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etnu.md",
+                "file": "Magic System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,12 +176,21 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "595c8b1f1ee54414",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 822,
     "collapsed": true
   },
   "left-ribbon": {
@@ -125,20 +199,52 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "9253a15213322480",
+  "active": "17c73f1255b55f0e",
   "lastOpenFiles": [
-    "Jurrin Tuls.md",
+    "Magic System.md",
+    "Session Summaries.md",
+    "Vera Lauten - Character Sheet.md",
+    "Vera Lauten.md",
+    "Etnu - Stats.md",
+    "Shani Mirza.md",
     "The Dark Between - Campaign Sessions/Planning.md",
-    "Etnu.md",
-    "Altrement.md",
-    "Lightless Eye.md",
-    "Deep Dwellers.md",
-    "Fourth Tinwheel.md",
-    "The Dark Between.md",
+    "Jax.md",
     "Enzo Quint.md",
-    "Third Tinwheel.md"
+    "Corrin Fane.md",
+    "Untitled 5.md",
+    "Valent Childs - Stats.md",
+    "Valent Childs.md",
+    "The Exchange - A Short Story Exploration.md",
+    "Valent Childs Comic Short.md",
+    "Thread.md",
+    "Meripol.md",
+    "Bathysward.md",
+    "Deep Dwellers.md",
+    "Sonxai.md",
+    "Lotus.md",
+    "Untitled 4.md",
+    "Etnu.md",
+    "The Dread.md",
+    "The Basentia Omnia.md",
+    "Rikkart Lauten.md",
+    "Map of the Halcacion Cube.canvas",
+    "textgenerator/prompts/huggingface",
+    "textgenerator/prompts/default",
+    "textgenerator/prompts",
+    "textgenerator",
+    "Untitled.canvas",
+    "images/Sierpinski Station BG (1).png",
+    "images/C.png",
+    "images/D.png",
+    "images/A.png",
+    "images/Pasted image 20230308195346.png",
+    "images/Pasted image 20230308195342.png",
+    "images/B.png"
   ]
 }

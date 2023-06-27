@@ -1,0 +1,13 @@
+{
+  "openAiApiKey": "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",
+  "huggingfaceApiKey": "",
+  "defaultModel": "gpt-3.5-turbo",
+  "temperature": 0.8,
+  "maxTokens": 2000,
+  "contextTurns": 3,
+  "useNotesAsContext": false,
+  "userSystemPrompt": "",
+  "stream": true,
+  "embeddingProvider": "openai",
+  "debug": false
+}

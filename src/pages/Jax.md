@@ -1,0 +1,1 @@
+Jax is a criminal who works for the organization called the [[Syndicate]], also called the 
